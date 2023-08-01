@@ -1,0 +1,9 @@
+node_modules/
+eslint-cache/
+temp/
+.eslintcache
+.DS_Store
+Thumbs.db
+npm-debug.log
+package-lock.json
+custom_sets.js
