@@ -3698,7 +3698,7 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
 		"makesContact": true,
 		"hasSecondaryEffect": true,
 		"isPunch": true,
-		"pp": 10
+		"pp": 20
 	},
 	"Precipice Blades": {
 		"bp": 120,
