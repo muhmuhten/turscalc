@@ -2479,7 +2479,7 @@ var MOVES_DPP = $.extend(true, {}, MOVES_ADV, {
 		"type": "Grass",
 		"category": "Physical",
 		"isBullet": true,
-		"pp": 10
+		"pp": 15
 	},
 	"Seed Flare": {
 		"bp": 120,
