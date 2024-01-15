@@ -2935,6 +2935,7 @@ var POKEDEX_GSC = $.extend(true, {}, POKEDEX_RBY, {
 			"sp": 60
 		},
 		"w": 32.5,
+		"ab": "Analytic",
 		"gender": "genderless"
 	},
 	"Pupitar": {

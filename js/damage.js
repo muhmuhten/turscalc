@@ -356,7 +356,8 @@ function getDamageResult(attacker, defender, move, field) {
                     move.category === "Physical")) {
 		bpMods.push(0x1800);
 		description.attackerAbility = attacker.ability;
-	} else if (attacker.ability === "Analytic" && turnOrder !== "FIRST") {
+	} else if (attacker.ability === "Analytic" /*&& turnOrder !== "FIRST"*/) {
+		/* Always calc with Analytic because we switch-stall a lot */
 		bpMods.push(0x14CD);
 		description.attackerAbility = attacker.ability;
 	} else if (attacker.ability === "Sand Force" && field.weather === "Sand" && ["Rock", "Ground", "Steel"].indexOf(move.type) !== -1) {
@@ -906,6 +907,8 @@ function checkKlutz(pokemon) {
 }
 
 function checkIntimidate(source, target) {
+	//don't do this because we set up/switch-stall too much for it to not just screw things up
+	/*
 	if (source.ability === "Intimidate" && ["Clear Body", "White Smoke", "Hyper Cutter", "Full Metal Body"].indexOf(target.ability) === -1) {
 		if (["Contrary", "Defiant"].indexOf(target.ability) !== -1) {
 			target.boosts[AT] = Math.min(6, target.boosts[AT] + 1);
@@ -915,6 +918,7 @@ function checkIntimidate(source, target) {
 			target.boosts[AT] = Math.max(-6, target.boosts[AT] - 1);
 		}
 	}
+	*/
 }
 
 function checkMinimize(p1, p2) {
