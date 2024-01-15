@@ -5558,7 +5558,7 @@ SETDEX_XY = {
 			"item": "Chesto Berry"
 		}
 	},
-	"Gourgeist-Average": {
+	"Gourgeist": {
 		"Gourgeist4": {
 			"level": 50,
 			"evs": {

@@ -9394,21 +9394,6 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 	"Cottonee": {"t2": "Fairy"},
 	"Whimsicott": {"t2": "Fairy"},
 	"Krookodile": {"bs": {"df": 80}},
-	"Aegislash-Blade": {
-		"t1": "Steel",
-		"t2": "Ghost",
-		"bs": {
-			"hp": 60,
-			"at": 150,
-			"df": 50,
-			"sa": 150,
-			"sd": 50,
-			"sp": 60
-		},
-		"w": 10.0,
-		"ab": "Stance Change",
-		"formes": ["Aegislash-Blade", "Aegislash-Shield"]
-	},
 	"Aegislash-Shield": {
 		"t1": "Steel",
 		"t2": "Ghost",
@@ -9423,6 +9408,21 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"w": 52.0,
 		"ab": "Stance Change",
 		"isAlternateForme": true
+	},
+	"Aegislash-Blade": {
+		"t1": "Steel",
+		"t2": "Ghost",
+		"bs": {
+			"hp": 60,
+			"at": 150,
+			"df": 50,
+			"sa": 150,
+			"sd": 50,
+			"sp": 60
+		},
+		"w": 10.0,
+		"ab": "Stance Change",
+		"formes": ["Aegislash-Blade", "Aegislash-Shield"]
 	},
 	"Amaura": {
 		"t1": "Rock",
