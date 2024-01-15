@@ -219,9 +219,12 @@ function addToDex(poke) {
 function updateDex(customsets) {
 	for (var pokemon in customsets) {
 		for (var setdex of [SETDEX_SM, SETDEX_XY, SETDEX_BW, SETDEX_DPP, SETDEX_ADV, SETDEX_GSC, SETDEX_RBY]) {
-			setdex[pokemon] = {...customsets[pokemon], ...setdex[pokemon]}
+			if (pokemon in setdex)
+				setdex[pokemon] = {...setdex[pokemon], ...customsets[pokemon]}
 		}
 	}
+	setdex = customsets;
+	setOptions = getSetOptions();
 	localStorage.customsets = JSON.stringify(customsets);
 }
 
@@ -327,6 +330,14 @@ $(document).ready(function () {
 		customSets = JSON.parse(localStorage.customsets);
 	placeBsBtn();
 	updateDex(customSets);
+
+	if (customSets.Gliscor) {
+		var id = "Gliscor (" + Object.keys(customSets.Gliscor)[0] + ")";
+		$(".set-selector").val(id);
+		$(".set-selector").change();
+		$(".set-selector .select2-chosen").text(id);
+	}
+
 	$(bothPokemon(".importedSetsOptions")).css("display", "inline");
 
 	document.querySelector("textarea.import-team-text").oninput = evt => {

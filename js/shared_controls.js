@@ -769,7 +769,7 @@ function Side(format, terrain, weather, isGravity, isSR, spikes, isReflect, isLi
 	this.isMinimized = isMinimized;
 }
 
-var gen, genWasChanged, notation, pokedex, setdex, typeChart, moves, abilities, items, STATS, calcHP, calcStat;
+var gen, genWasChanged, notation, pokedex, setdex, setOptions, typeChart, moves, abilities, items, STATS, calcHP, calcStat;
 
 $(".gen").change(function () {
 	gen = ~~$(this).val();
@@ -852,6 +852,7 @@ $(".gen").change(function () {
 		calcHP = CALC_HP_ADV;
 		calcStat = CALC_STAT_ADV;
 	}
+	setOptions = getSetOptions();
 	clearField();
 	$("#importedSets").prop("checked", false);
 	loadDefaultLists();
@@ -867,7 +868,7 @@ $(".gen").change(function () {
 	var itemOptions = getSelectOptions(items, true);
 	$("select.item").find("option").remove().end().append("<option value=\"\">(none)</option>" + itemOptions);
 
-	$(".set-selector").val(getSetOptions()[gen < 3 ? 3 : 1].id);
+	$(".set-selector").val(setOptions[gen < 3 ? 3 : 1].id);
 	$(".set-selector").change();
 });
 
@@ -906,36 +907,30 @@ function clearField() {
 	$("#minimizeR").prop("checked", false);
 }
 
-function getSetOptions(sets) {
-	var setsHolder = sets;
-	if (setsHolder === undefined) {
-		setsHolder = pokedex;
+function getSetOptions() {
+	for (pokeName in pokedex) {
+		if (!(pokeName in setdex))
+			setdex[pokeName] = {};
 	}
-	var pokeNames = Object.keys(setsHolder);
-	pokeNames.sort();
+
 	var setOptions = [];
-	var idNum = 0;
-	for (var i = 0; i < pokeNames.length; i++) {
-		var pokeName = pokeNames[i];
+	for (pokeName in setdex) {
 		setOptions.push({
 			pokemon: pokeName,
 			text: pokeName
 		});
-		if (pokeName in setdex) {
-			var setNames = Object.keys(setdex[pokeName]);
-			for (var j = 0; j < setNames.length; j++) {
-				var setName = setNames[j];
-				setOptions.push({
-					pokemon: pokeName,
-					set: setName,
-					text: pokeName + " (" + setName + ")",
-					id: pokeName + " (" + setName + ")",
-					isCommon: setdex[pokeName][setName]["isCommon"],
-					afterForty: setdex[pokeName][setName]["afterForty"],
-					isCustom: setdex[pokeName][setName].isCustomSet,
-					nickname: setdex[pokeName][setName].nickname || ""
-				});
-			}
+		var setNames = Object.keys(setdex[pokeName]);
+		for (setName in setdex[pokeName]) {
+			setOptions.push({
+				pokemon: pokeName,
+				set: setName,
+				text: pokeName + " (" + setName + ")",
+				id: pokeName + " (" + setName + ")",
+				isCommon: setdex[pokeName][setName]["isCommon"],
+				afterForty: setdex[pokeName][setName]["afterForty"],
+				isCustom: setdex[pokeName][setName].isCustomSet,
+				nickname: setdex[pokeName][setName].nickname || ""
+			});
 		}
 		setOptions.push({
 			pokemon: pokeName,
@@ -944,6 +939,7 @@ function getSetOptions(sets) {
 			id: pokeName + " (Blank Set)"
 		});
 	}
+
 	return setOptions;
 }
 
@@ -1034,20 +1030,22 @@ function loadDefaultLists() {
 			return object.set ? ("&nbsp;&nbsp;&nbsp;" + object.set) : ("<b>" + object.text + "</b>");
 		},
 		query: function (query) {
-			var pageSize = 30;
-			var results = _.filter(getSetOptions(), function (option) {
-				var pokeName = option.pokemon.toUpperCase();
-				return !query.term || query.term.toUpperCase().split(" ").every(function (term) {
-					return pokeName.indexOf(term) === 0 || pokeName.indexOf("-" + term) >= 0 || pokeName.indexOf(" " + term) >= 0;
-				});
+			var queries = query.term.split(/\s+/).map(term => RegExp(term, "i"));
+			var matches = {};
+			setOptions.filter(option => queries.every(term => option.id && term.exec(option.text))).forEach(option => {
+				if (!(option.pokemon in matches)) {
+					matches[option.pokemon] = [{
+						pokemon: option.pokemon,
+						text: option.pokemon
+					}];
+				}
+				matches[option.pokemon].push(option);
 			});
-			query.callback({
-				results: results.slice((query.page - 1) * pageSize, query.page * pageSize),
-				more: results.length >= query.page * pageSize
-			});
+			var results = [].concat.apply([], Object.values(matches));
+			query.callback({results});
 		},
 		initSelection: function (element, callback) {
-			var data = getSetOptions()[gen < 3 ? 3 : 1];
+			var data = setOptions[gen < 3 ? 3 : 1];
 			callback(data);
 		}
 	});
@@ -1075,16 +1073,19 @@ function loadCustomList(id) {
 			return (set.nickname ? set.pokemon + " (" + set.nickname + ")" : set.id);
 		},
 		query: function (query) {
-			var pageSize = 20;
-			var results = _.filter(getSetOptions(), function (option) {
-				if (option.isCustom) {
-					return (option.nickname ? option.pokemon + " (" + option.nickname + ")" : option.id);
+			var queries = query.term.split(/\s+/).map(term => RegExp(term, "i"));
+			var matches = {};
+			setOptions.filter(option => queries.every(term => option.id && term.exec(option.text))).forEach(option => {
+				if (!(option.pokemon in matches)) {
+					matches[option.pokemon] = [{
+						pokemon: option.pokemon,
+						text: option.pokemon
+					}];
 				}
+				matches[option.pokemon].push(option);
 			});
-			query.callback({
-				results: results,
-				more: results.length >= query.page * pageSize
-			});
+			var results = [].concat.apply([], Object.values(matches));
+			query.callback({results});
 		},
 		initSelection: function (element, callback) {
 			var data = "";
@@ -1106,7 +1107,7 @@ $(document).ready(function () {
 			return text.toUpperCase().indexOf(term.toUpperCase()) === 0 || text.toUpperCase().indexOf(" " + term.toUpperCase()) >= 0;
 		}
 	});
-	$(".set-selector").val(getSetOptions()[gen < 3 ? 3 : 1].id);
+	$(".set-selector").val(setOptions[gen < 3 ? 3 : 1].id);
 	$(".set-selector").change();
 	$(".terrain-trigger").bind("change keyup", getTerrainEffects);
 });
