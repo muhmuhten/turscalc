@@ -24,6 +24,12 @@ for (var i = 0; i < 4; i++) {
 
 var damageResults;
 function calculate() {
+	/* XXX this should probably be somewhere else */
+	calcHP($("#p1"));
+	calcHP($("#p2"));
+	calcStats($("#p1"));
+	calcStats($("#p2"));
+
 	var p1 = new Pokemon($("#p1"));
 	var p2 = new Pokemon($("#p2"));
 	var battling = [p1, p2];

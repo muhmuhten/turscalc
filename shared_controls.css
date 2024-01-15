@@ -310,6 +310,10 @@ th {
 .info-group {
 	margin: 1em 0;
 }
+.info-group td:last-child {
+	text-align: right;
+	padding-left: 0.2em;
+}
 .set-selector {
 	width: 100%;
 }

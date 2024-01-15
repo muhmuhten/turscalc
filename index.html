@@ -8,6 +8,12 @@
 <link type="text/css" rel="stylesheet" href="shared_controls.css?d0dc62b1">
 <link type="text/css" rel="stylesheet" href="bootstrap.css">
 
+<style>
+.total {
+	order: 1000;
+}
+</style>
+
 <body>
 
 <div aria-label="Settings" class='settings' role="region">
@@ -20,10 +26,10 @@
 <input class="gen visually-hidden" type="radio" name="gen" value="6" id="gen6" checked><label class="btn btn-small btn-mid" for="gen6">ORAS</label>
 <input class="gen visually-hidden" type="radio" name="gen" value="7" id="gen7"><label class="btn btn-small btn-right" for="gen7">USUM</label>
 </div>
-<div aria-labelledby="selectNotationInstruction" role="radiogroup" title="Select the output notation.">		
-<span class="visually-hidden" id="selectNotationInstruction">Select the output notation.</span>		
-<input class="notation visually-hidden" type="radio" name="notation" id="pixels" value="px"><label class="btn btn-small btn-left" for="pixels">48th</label>		
-<input class="notation visually-hidden" type="radio" name="notation" id="percentage" value="%"><label class="btn btn-small btn-right" for="percentage">100%</label>		
+<div aria-labelledby="selectNotationInstruction" role="radiogroup" title="Select the output notation.">
+<span class="visually-hidden" id="selectNotationInstruction">Select the output notation.</span>
+<input class="notation visually-hidden" type="radio" name="notation" id="pixels" value="px"><label class="btn btn-small btn-left" for="pixels">48th</label>
+<input class="notation visually-hidden" type="radio" name="notation" id="percentage" value="%"><label class="btn btn-small btn-right" for="percentage">100%</label>
 </div>
 <div aria-labelledby="selectModeInstruction" role="radiogroup" title="Select the calculator's mode of function.">
 <span class="visually-hidden" id="selectModeInstruction">Select the calculator's mode of function.</span>
@@ -195,6 +201,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="df">
 			<th scope="row">
@@ -231,6 +238,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sa gen-specific g2 g3 g4 g5 g6 g7">
 			<th scope="row">
@@ -267,6 +275,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sd gen-specific g2 g3 g4 g5 g6 g7">
 			<th scope="row">
@@ -303,6 +312,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sl gen-specific g1 hide">
 			<th scope="row">
@@ -333,6 +343,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sp">
 			<th scope="row">
@@ -368,6 +379,7 @@
 				<option value="-5">-5</option>
 				<option value="-6">-6</option>
 			</select>
+			<td class="boosted">157</td>
 			</td>
 			</tr>
 			<tr><td></td><td></td><td></td><td class='ev-total'></td><td class='ev-left'></td><td></td><td></td><td></td></tr>
@@ -696,6 +708,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="df">
 			<th scope="row">
@@ -732,6 +745,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sa gen-specific g2 g3 g4 g5 g6 g7">
 			<th scope="row">
@@ -768,6 +782,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sd gen-specific g2 g3 g4 g5 g6 g7">
 			<th scope="row">
@@ -804,6 +819,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sl gen-specific g1 hide">
 			<th scope="row">
@@ -834,6 +850,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr class="sp">
 			<th scope="row">
@@ -870,6 +887,7 @@
 				<option value="-6">-6</option>
 			</select>
 			</td>
+			<td class="boosted">157</td>
 			</tr>
 			<tr><td></td><td></td><td></td><td class='ev-total'></td><td class='ev-left'></td><td></td><td></td><td></td></tr>
 		</tbody>
@@ -1300,14 +1318,14 @@
 <script src="js/data/setdex_rse.js?e269c1ce"></script>
 <script src="js/data/setdex_gsc.js?35ddf684"></script>
 <script src="js/data/setdex_rby.js?eb4a9c36"></script>
-<script src="js/data/stat_data.js?6dd50d73"></script>
+<script src="js/data/stat_data.js?59f59d12"></script>
 <script src="js/data/type_data.js?b9e89839"></script>
 <script src="js/data/nature_data.js?0b9893dd"></script>
 <script src="js/data/ability_data.js?a85b6f9d"></script>
 <script src="js/data/item_data.js?68432129"></script>
 <script src="js/data/move_data.js?69f74598"></script>
 <script src="js/shared_controls.js?ebbe1562"></script>
-<script src="js/index_controls.js?6ae404a1"></script>
+<script src="js/index_controls.js?864e317a"></script>
 <script src="js/damage.js?7b261085"></script>
 <script src="js/damage_dpp.js?27014f8e"></script>
 <script src="js/damage_rse.js?ec0f6160"></script>

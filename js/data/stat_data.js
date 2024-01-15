@@ -50,4 +50,5 @@ function CALC_STAT_ADV(poke, statName) {
 	var nature = natureMods[0] === statName ? 1.1 : natureMods[1] === statName ? 0.9 : 1;
 	var total = Math.floor((Math.floor((base * 2 + ivs + Math.floor(evs / 4)) * level / 100) + 5) * nature);
 	stat.find(".total").text(total);
+	stat.find(".boosted").text(getModifiedStat(total, ~~stat.find(".boost").val()));
 }
