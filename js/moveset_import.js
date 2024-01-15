@@ -328,4 +328,26 @@ $(document).ready(function () {
 	placeBsBtn();
 	updateDex(customSets);
 	$(bothPokemon(".importedSetsOptions")).css("display", "inline");
+
+	document.querySelector("textarea.import-team-text").oninput = evt => {
+		const selectors = {
+			"1": "#p1 .move1 input.move-pp",
+			"2": "#p1 .move2 input.move-pp",
+			"3": "#p1 .move3 input.move-pp",
+			"4": "#p1 .move4 input.move-pp",
+			"q": "#p2 .move1 input.move-pp",
+			"w": "#p2 .move2 input.move-pp",
+			"e": "#p2 .move3 input.move-pp",
+			"r": "#p2 .move4 input.move-pp",
+		};
+		const counts = {};
+		for (const ch in selectors)
+			counts[ch] = 0;
+		for (const ch of evt.target.value)
+			counts[ch] = (counts[ch] || 0) + 1;
+		for (const ch in selectors) {
+			const el = document.querySelector(selectors[ch]);
+			el.value = el.max - counts[ch];
+		}
+	};
 });

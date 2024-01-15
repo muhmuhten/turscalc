@@ -328,8 +328,12 @@ $(".move-selector").change(function () {
 	moveGroupObj.children(".move-type").val(move.type);
 	moveGroupObj.children(".move-cat").val(move.category);
 	moveGroupObj.children(".move-crit").prop("checked", move.alwaysCrit === true);
-	moveGroupObj.children(".move-pp").val(move.pp);
-	moveGroupObj.children(".move-pp").attr("max", move.pp);
+	var move_pp = move.pp;
+	/* XXX assume any set not named with a digit at the end is PP Upped lol */
+	if (!$(this).closest(".poke-info").find(".set-selector .select2-chosen").text().match(/\d]?\)$/))
+		move_pp = 8*move_pp/5;
+	moveGroupObj.children(".move-pp").val(move_pp);
+	moveGroupObj.children(".move-pp").attr("max", move_pp);
 	moveGroupObj.children(".metronome").prop("disabled", !!move.dropsStats);
 	if (move.isMultiHit) {
 		moveGroupObj.children(".stat-drops").hide();
