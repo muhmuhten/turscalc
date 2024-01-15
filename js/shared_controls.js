@@ -1030,7 +1030,7 @@ function loadDefaultLists() {
 			return object.set ? ("&nbsp;&nbsp;&nbsp;" + object.set) : ("<b>" + object.text + "</b>");
 		},
 		query: function (query) {
-			var queries = query.term.split(/\s+/).map(term => RegExp(term, "i"));
+			var queries = query.term.split(/\s+|(?=\d)/).map(term => RegExp(term, "i"));
 			var matches = {};
 			setOptions.filter(option => queries.every(term => option.id && term.exec(option.text))).forEach(option => {
 				if (!(option.pokemon in matches)) {
@@ -1060,9 +1060,14 @@ function checkPressure() {
 		for (var i = 1; i < 5; i++) {
 			var t = $("#p" + (3-j) ).find(".move" + i + " .move-pp");
 			var isEnemyPressure = $("#p" + j + " .ability").val() === "Pressure";
-			t.attr("max",  t.val());
-			t.attr("min",  isEnemyPressure ? (t.val() % 2 * (-1)) : 0);
-			t.attr("step", isEnemyPressure ? 2 : 1);
+			if (isEnemyPressure) {
+				t.attr("min", -t.val() % 2);
+				t.attr("step", 2);
+			}
+			else {
+				t.attr("min", 0);
+				t.attr("step", 1);
+			}
 		}
 	}
 }

@@ -333,6 +333,8 @@ $(document).ready(function () {
 
 	if (customSets.Gliscor) {
 		var id = "Gliscor (" + Object.keys(customSets.Gliscor)[0] + ")";
+		// XXX just fake it lol
+		$(".set-selector .select2-chosen").text(id);
 		$(".set-selector").val(id);
 		$(".set-selector").change();
 		$(".set-selector .select2-chosen").text(id);
