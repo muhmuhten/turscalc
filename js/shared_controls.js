@@ -1030,7 +1030,7 @@ function loadDefaultLists() {
 			return object.set ? ("&nbsp;&nbsp;&nbsp;" + object.set) : ("<b>" + object.text + "</b>");
 		},
 		query: function (query) {
-			var queries = query.term.split(/\s+|(?=\d)/).map(term => RegExp(term, "i"));
+			var queries = query.term.split(/\s+|(?<!\d)(?=\d)/).map(term => RegExp(term, "i"));
 			var matches = {};
 			setOptions.filter(option => queries.every(term => option.id && term.exec(option.text))).forEach(option => {
 				if (!(option.pokemon in matches)) {
