@@ -921,7 +921,6 @@ function getSetOptions() {
 			pokemon: pokeName,
 			text: pokeName
 		});
-		var setNames = Object.keys(setdex[pokeName]);
 		for (setName in setdex[pokeName]) {
 			var set = setdex[pokeName][setName];
 			var newSetOption = {
@@ -938,9 +937,9 @@ function getSetOptions() {
 			if (set.isCustomSet) {
 				customSetOptions.push({
 					...newSetOption,
-					pokemon: "Custom Set",
+					pokemon: "Custom Sets",
 					set: setName + " (" + pokeName + ")",
-					text: setName
+					queryKey: setName
 				});
 			}
 		}
@@ -1049,7 +1048,7 @@ function loadDefaultLists() {
 		query: function (query) {
 			var queries = query.term.split(/\s+|(?<!\d)(?=\d)/).map(term => RegExp(term, "i"));
 			var matches = {};
-			setOptions.filter(option => queries.every(term => option.id && term.exec(option.text))).forEach(option => {
+			setOptions.filter(option => queries.every(term => option.id && term.exec(option.queryKey || option.text))).forEach(option => {
 				if (!(option.pokemon in matches)) {
 					matches[option.pokemon] = [{
 						pokemon: option.pokemon,
