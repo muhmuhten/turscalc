@@ -10911,7 +10911,7 @@ SETDEX_XY = {
 			},
 			"moves": [
 				"Leaf Tornado",
-				"Hidden Power",
+				"Hidden Power Dark",
 				"Mirror Coat",
 				"Captivate"
 			],

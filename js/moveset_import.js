@@ -38,7 +38,7 @@ function ExportPokemon(pokeInfo) {
 		}
 	}
 	finalText = finalText.trim();
-	$("textarea.import-team-text").text(finalText);
+	$("textarea.import-team-text").val(finalText);
 }
 
 $("#exportL").click(function () {

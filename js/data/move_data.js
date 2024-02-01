@@ -3100,7 +3100,7 @@ var MOVES_BW = $.extend(true, {}, MOVES_DPP, {
 		"category": "Physical",
 		"makesContact": true,
 		"ignoresDefenseBoosts": true,
-		"pp": 20
+		"pp": 15
 	},
 	"Sand Tomb": {
 		"bp": 35
@@ -3746,6 +3746,9 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
 	},
 	"Synchronoise": {
 		"bp": 120
+	},
+	"Tailwind": {
+		"pp": 15
 	},
 	"Techno Blast": {
 		"bp": 120
