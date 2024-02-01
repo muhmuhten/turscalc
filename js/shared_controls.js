@@ -914,6 +914,8 @@ function getSetOptions() {
 	}
 
 	var setOptions = [];
+	var customSetOptions = []
+
 	for (pokeName in setdex) {
 		setOptions.push({
 			pokemon: pokeName,
@@ -921,16 +923,26 @@ function getSetOptions() {
 		});
 		var setNames = Object.keys(setdex[pokeName]);
 		for (setName in setdex[pokeName]) {
-			setOptions.push({
+			var set = setdex[pokeName][setName];
+			var newSetOption = {
 				pokemon: pokeName,
 				set: setName,
 				text: pokeName + " (" + setName + ")",
 				id: pokeName + " (" + setName + ")",
-				isCommon: setdex[pokeName][setName]["isCommon"],
-				afterForty: setdex[pokeName][setName]["afterForty"],
-				isCustom: setdex[pokeName][setName].isCustomSet,
-				nickname: setdex[pokeName][setName].nickname || ""
-			});
+				isCommon: set.isCommon,
+				afterForty: set.afterForty,
+				isCustom: set.isCustomSet,
+				nickname: set.nickname || ""
+			};
+			setOptions.push(newSetOption);
+			if (set.isCustomSet) {
+				customSetOptions.push({
+					...newSetOption,
+					pokemon: "Custom Set",
+					set: setName + " (" + pokeName + ")",
+					text: setName
+				});
+			}
 		}
 		setOptions.push({
 			pokemon: pokeName,
@@ -938,6 +950,11 @@ function getSetOptions() {
 			text: pokeName + " (Blank Set)",
 			id: pokeName + " (Blank Set)"
 		});
+	}
+
+	if (customSetOptions.length > 0) {
+		customSetOptions.sort((a, b) => a.set < b.set ? -1 : a.set > b.set ? 1 : 0);
+		setOptions = [...customSetOptions, ...setOptions];
 	}
 
 	return setOptions;
