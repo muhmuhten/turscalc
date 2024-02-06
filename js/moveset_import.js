@@ -353,7 +353,7 @@ $(document).ready(function () {
 			"e": "#p2 .move3 input.move-pp",
 			"r": "#p2 .move4 input.move-pp",
 		};
-		const counts = {};
+		const counts = {"z": 0, "x": 0, "c": 0, "v": 0};
 		for (const ch in selectors)
 			counts[ch] = 0;
 		for (const ch of evt.target.value)
@@ -361,6 +361,14 @@ $(document).ready(function () {
 		for (const ch in selectors) {
 			const el = document.querySelector(selectors[ch]);
 			el.value = el.max - counts[ch];
+		}
+		if (counts.x || counts.c) {
+			const el = document.querySelector("#p2 .at .boost");
+			el.selectedIndex = el.querySelector("[selected]").index + counts.x - counts.c;
+		}
+		if (counts.z || counts.v) {
+			const el = document.querySelector("#p1 .at .boost");
+			el.selectedIndex = el.querySelector("[selected]").index + counts.z - counts.v;
 		}
 	};
 });
