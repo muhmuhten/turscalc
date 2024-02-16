@@ -308,7 +308,7 @@ SETDEX_XY = {
 				"Round"
 			],
 			"nature": "Quiet",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		},
 		"Aggron1": {
 			"level": 50,
@@ -472,7 +472,7 @@ SETDEX_XY = {
 				"Payback"
 			],
 			"nature": "Jolly",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"isCommon": true,
 			"afterForty": true
 		},
@@ -519,7 +519,7 @@ SETDEX_XY = {
 				"U-turn"
 			],
 			"nature": "Naive",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		}
 	},
 	"Ampharos": {
@@ -1644,7 +1644,7 @@ SETDEX_XY = {
 				"Sky Drop"
 			],
 			"nature": "Adamant",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		}
 	},
 	"Breloom": {
@@ -5724,7 +5724,7 @@ SETDEX_XY = {
 				"U-turn"
 			],
 			"nature": "Jolly",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		},
 		"Greninja2": {
@@ -5890,7 +5890,7 @@ SETDEX_XY = {
 				"Vital Throw"
 			],
 			"nature": "Brave",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		}
 	},
 	"Hawlucha": {
@@ -6485,7 +6485,7 @@ SETDEX_XY = {
 				"Acrobatics"
 			],
 			"nature": "Jolly",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		}
 	},
@@ -6520,7 +6520,7 @@ SETDEX_XY = {
 				"Yawn"
 			],
 			"nature": "Timid",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		},
 		"Jolteon2": {
@@ -8403,7 +8403,7 @@ SETDEX_XY = {
 				"High Jump Kick"
 			],
 			"nature": "Jolly",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		},
 		"Mienshao1": {
 			"level": 50,
@@ -8943,7 +8943,7 @@ SETDEX_XY = {
 				"Hone Claws"
 			],
 			"nature": "Naughty",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		}
 	},
 	"Nidoqueen": {
@@ -9596,7 +9596,7 @@ SETDEX_XY = {
 				"Noble Roar"
 			],
 			"nature": "Timid",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		}
 	},
 	"Quagsire": {
@@ -10164,7 +10164,7 @@ SETDEX_XY = {
 				"Thunder Punch"
 			],
 			"nature": "Jolly",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"isCommon": true,
 			"afterForty": true
 		},
@@ -10249,7 +10249,7 @@ SETDEX_XY = {
 				"Trick Room"
 			],
 			"nature": "Brave",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		},
 		"Reuniclus1": {
@@ -11394,7 +11394,7 @@ SETDEX_XY = {
 				"Psych Up"
 			],
 			"nature": "Gentle",
-			"item": "Kings Rock"
+			"item": "King's Rock"
 		}
 	},
 	"Slurpuff": {
@@ -11671,7 +11671,7 @@ SETDEX_XY = {
 				"Ice Beam"
 			],
 			"nature": "Timid",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"isCommon": true,
 			"afterForty": true
 		},
@@ -12320,7 +12320,7 @@ SETDEX_XY = {
 				"Sacred Sword"
 			],
 			"nature": "Jolly",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		}
 	},
@@ -12488,7 +12488,7 @@ SETDEX_XY = {
 				"Shadow Ball"
 			],
 			"nature": "Timid",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		},
 		"Togekiss2": {
@@ -12902,7 +12902,7 @@ SETDEX_XY = {
 				"Dragon Dance"
 			],
 			"nature": "Hasty",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"afterForty": true
 		},
 		"Tyranitar1": {
@@ -14066,7 +14066,7 @@ SETDEX_XY = {
 				"Shadow Ball"
 			],
 			"nature": "Modest",
-			"item": "Kings Rock",
+			"item": "King's Rock",
 			"isCommon": true,
 			"afterForty": true
 		},

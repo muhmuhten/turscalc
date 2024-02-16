@@ -3440,6 +3440,11 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
 		"makesContact": true,
 		"pp": 10
 	},
+	"Forest's Curse": {
+		"bp": 0,
+		"type": "Grass",
+		"pp": 20
+	},
 	"Freeze-Dry": {
 		"bp": 70,
 		"type": "Ice",
@@ -3779,7 +3784,7 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
 	"Trick-or-Treat": {
 		"bp": 0,
 		"type": "Ghost",
-		"pp": 10
+		"pp": 20
 	},
 	"Wake-Up Slap": {
 		"bp": 70
