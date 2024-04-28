@@ -1,6 +1,7 @@
-var SETDEX_BW = {
+var SETDEX_BW = 
+{
 	"Abomasnow": {
-		"Abomasnow 281": {
+		"Abomasnow-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -16,7 +17,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Leftovers"
 		},
-		"Abomasnow 456": {
+		"Abomasnow-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -32,7 +33,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Miracle Seed"
 		},
-		"Abomasnow 631": {
+		"Abomasnow-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -47,7 +48,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Focus Sash"
 		},
-		"Abomasnow 806": {
+		"Abomasnow-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -64,7 +65,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Absol": {
-		"Absol 235": {
+		"Absol-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -80,7 +81,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Sitrus Berry"
 		},
-		"Absol 410": {
+		"Absol-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -95,7 +96,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chople Berry"
 		},
-		"Absol 585": {
+		"Absol-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -109,7 +110,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Absol 760": {
+		"Absol-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -125,7 +126,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Accelgor": {
-		"Accelgor 292": {
+		"Accelgor-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -140,7 +141,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Focus Sash"
 		},
-		"Accelgor 467": {
+		"Accelgor-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -155,7 +156,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Petaya Berry"
 		},
-		"Accelgor 642": {
+		"Accelgor-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -170,7 +171,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Accelgor 817": {
+		"Accelgor-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -187,7 +188,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Aerodactyl": {
-		"Aerodactyl 329": {
+		"Aerodactyl-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -202,7 +203,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Band"
 		},
-		"Aerodactyl 504": {
+		"Aerodactyl-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -217,7 +218,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Passho Berry"
 		},
-		"Aerodactyl 679": {
+		"Aerodactyl-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -232,7 +233,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Rock Gem"
 		},
-		"Aerodactyl 854": {
+		"Aerodactyl-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -249,7 +250,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Aggron": {
-		"Aggron 354": {
+		"Aggron-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -264,7 +265,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Focus Sash"
 		},
-		"Aggron 529": {
+		"Aggron-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -279,7 +280,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "King's Rock"
 		},
-		"Aggron 704": {
+		"Aggron-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -294,7 +295,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Steel Gem"
 		},
-		"Aggron 879": {
+		"Aggron-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -311,7 +312,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Alakazam": {
-		"Alakazam 273": {
+		"Alakazam-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -325,7 +326,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Alakazam 448": {
+		"Alakazam-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -340,7 +341,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Alakazam 623": {
+		"Alakazam-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -355,7 +356,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Wise Glasses"
 		},
-		"Alakazam 798": {
+		"Alakazam-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -372,7 +373,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Alomomola": {
-		"Alomomola 154": {
+		"Alomomola-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -387,7 +388,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Leftovers"
 		},
-		"Alomomola 192": {
+		"Alomomola-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -403,7 +404,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Altaria": {
-		"Altaria 276": {
+		"Altaria-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -418,7 +419,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Pecha Berry"
 		},
-		"Altaria 451": {
+		"Altaria-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -433,7 +434,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Yache Berry"
 		},
-		"Altaria 626": {
+		"Altaria-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -448,7 +449,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Power Herb"
 		},
-		"Altaria 801": {
+		"Altaria-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -465,7 +466,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ambipom": {
-		"Ambipom 258": {
+		"Ambipom-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -480,7 +481,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "King's Rock"
 		},
-		"Ambipom 433": {
+		"Ambipom-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -495,7 +496,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Ambipom 608": {
+		"Ambipom-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -510,7 +511,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Life Orb"
 		},
-		"Ambipom 783": {
+		"Ambipom-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -527,7 +528,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Amoonguss": {
-		"Amoonguss 151": {
+		"Amoonguss-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -542,7 +543,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Amoonguss 189": {
+		"Amoonguss-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -558,7 +559,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ampharos": {
-		"Ampharos 300": {
+		"Ampharos-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -574,7 +575,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Shuca Berry"
 		},
-		"Ampharos 475": {
+		"Ampharos-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -589,7 +590,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Brave"
 		},
-		"Ampharos 650": {
+		"Ampharos-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -604,7 +605,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Chesto Berry"
 		},
-		"Ampharos 825": {
+		"Ampharos-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -621,7 +622,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Arcanine": {
-		"Arcanine 375": {
+		"Arcanine-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -636,7 +637,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Charcoal"
 		},
-		"Arcanine 550": {
+		"Arcanine-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -651,7 +652,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Fire Gem"
 		},
-		"Arcanine 725": {
+		"Arcanine-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -666,7 +667,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Arcanine 900": {
+		"Arcanine-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -683,7 +684,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Archen": {
-		"Archen 66": {
+		"Archen-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -698,7 +699,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Wacan Berry"
 		},
-		"Archen 132": {
+		"Archen-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -715,7 +716,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Archeops": {
-		"Archeops 376": {
+		"Archeops-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -730,7 +731,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sitrus Berry"
 		},
-		"Archeops 551": {
+		"Archeops-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -745,7 +746,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Enigma Berry"
 		},
-		"Archeops 726": {
+		"Archeops-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -760,7 +761,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Band"
 		},
-		"Archeops 901": {
+		"Archeops-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -777,7 +778,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Armaldo": {
-		"Armaldo 285": {
+		"Armaldo-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -792,7 +793,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Chesto Berry"
 		},
-		"Armaldo 460": {
+		"Armaldo-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -807,7 +808,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Razor Fang"
 		},
-		"Armaldo 635": {
+		"Armaldo-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -822,7 +823,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Life Orb"
 		},
-		"Armaldo 810": {
+		"Armaldo-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -839,7 +840,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Articuno": {
-		"Articuno 909": {
+		"Articuno-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -853,7 +854,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Articuno 929": {
+		"Articuno-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -867,7 +868,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Bold"
 		},
-		"Articuno 949": {
+		"Articuno-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -881,7 +882,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Articuno 969": {
+		"Articuno-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -898,7 +899,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Audino": {
-		"Audino 144": {
+		"Audino-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -913,7 +914,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Audino 182": {
+		"Audino-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -929,7 +930,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Axew": {
-		"Axew 40": {
+		"Axew-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -944,7 +945,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Yache Berry"
 		},
-		"Axew 106": {
+		"Axew-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -961,7 +962,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Basculin": {
-		"Basculin 146": {
+		"Basculin-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -976,7 +977,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Focus Sash"
 		},
-		"Basculin 184": {
+		"Basculin-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -992,7 +993,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Bastiodon": {
-		"Bastiodon 287": {
+		"Bastiodon-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1007,7 +1008,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Enigma Berry"
 		},
-		"Bastiodon 462": {
+		"Bastiodon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1022,7 +1023,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Bastiodon 637": {
+		"Bastiodon-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1037,7 +1038,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Leftovers"
 		},
-		"Bastiodon 812": {
+		"Bastiodon-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1054,7 +1055,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Beartic": {
-		"Beartic 166": {
+		"Beartic-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1068,7 +1069,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Beartic 204": {
+		"Beartic-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1083,7 +1084,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Life Orb"
 		},
-		"Beartic 352": {
+		"Beartic-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1098,7 +1099,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Sitrus Berry"
 		},
-		"Beartic 527": {
+		"Beartic-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1112,7 +1113,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Rash"
 		},
-		"Beartic 702": {
+		"Beartic-5": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1127,7 +1128,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Beartic 877": {
+		"Beartic-6": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1143,7 +1144,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Beheeyem": {
-		"Beheeyem 165": {
+		"Beheeyem-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1157,7 +1158,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Beheeyem 203": {
+		"Beheeyem-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1174,7 +1175,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Bisharp": {
-		"Bisharp 280": {
+		"Bisharp-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1189,7 +1190,7 @@ var SETDEX_BW = {
 			"nature": "Lax",
 			"item": "Sitrus Berry"
 		},
-		"Bisharp 455": {
+		"Bisharp-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1204,7 +1205,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chople Berry"
 		},
-		"Bisharp 630": {
+		"Bisharp-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1219,7 +1220,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Chople Berry"
 		},
-		"Bisharp 805": {
+		"Bisharp-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1236,7 +1237,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Blastoise": {
-		"Blastoise 211": {
+		"Blastoise-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1252,7 +1253,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Zoom Lens"
 		},
-		"Blastoise 386": {
+		"Blastoise-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1267,7 +1268,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Zoom Lens"
 		},
-		"Blastoise 561": {
+		"Blastoise-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1282,7 +1283,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Leftovers"
 		},
-		"Blastoise 736": {
+		"Blastoise-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1299,7 +1300,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Blaziken": {
-		"Blaziken 216": {
+		"Blaziken-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1315,7 +1316,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Salac Berry"
 		},
-		"Blaziken 391": {
+		"Blaziken-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1331,7 +1332,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Salac Berry"
 		},
-		"Blaziken 566": {
+		"Blaziken-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1346,7 +1347,7 @@ var SETDEX_BW = {
 			"nature": "Hardy",
 			"item": "Choice Band"
 		},
-		"Blaziken 741": {
+		"Blaziken-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1363,7 +1364,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Blissey": {
-		"Blissey 368": {
+		"Blissey-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -1378,7 +1379,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Leftovers"
 		},
-		"Blissey 543": {
+		"Blissey-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -1393,7 +1394,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Custap Berry"
 		},
-		"Blissey 718": {
+		"Blissey-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1408,7 +1409,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Blissey 893": {
+		"Blissey-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -1425,7 +1426,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Blitzle": {
-		"Blitzle 17": {
+		"Blitzle-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1440,7 +1441,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Magnet"
 		},
-		"Blitzle 83": {
+		"Blitzle-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1457,7 +1458,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Boldore": {
-		"Boldore 63": {
+		"Boldore-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1471,7 +1472,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Boldore 129": {
+		"Boldore-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1488,7 +1489,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Bouffalant": {
-		"Bouffalant 170": {
+		"Bouffalant-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1502,7 +1503,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Bouffalant 208": {
+		"Bouffalant-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1517,7 +1518,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Life Orb"
 		},
-		"Bouffalant 353": {
+		"Bouffalant-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1532,7 +1533,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Silk Scarf"
 		},
-		"Bouffalant 528": {
+		"Bouffalant-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1547,7 +1548,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Chople Berry"
 		},
-		"Bouffalant 703": {
+		"Bouffalant-5": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1562,7 +1563,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Bouffalant 878": {
+		"Bouffalant-6": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1579,7 +1580,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Braviary": {
-		"Braviary 327": {
+		"Braviary-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -1595,7 +1596,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "King's Rock"
 		},
-		"Braviary 502": {
+		"Braviary-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1610,7 +1611,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Persim Berry"
 		},
-		"Braviary 677": {
+		"Braviary-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1625,7 +1626,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Flying Gem"
 		},
-		"Braviary 852": {
+		"Braviary-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1642,7 +1643,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Breloom": {
-		"Breloom 232": {
+		"Breloom-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1657,7 +1658,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Black Belt"
 		},
-		"Breloom 407": {
+		"Breloom-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1672,7 +1673,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Toxic Orb"
 		},
-		"Breloom 582": {
+		"Breloom-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1687,7 +1688,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Breloom 757": {
+		"Breloom-4": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1705,7 +1706,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Bronzong": {
-		"Bronzong 310": {
+		"Bronzong-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1721,7 +1722,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Sitrus Berry"
 		},
-		"Bronzong 485": {
+		"Bronzong-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1735,7 +1736,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Quiet"
 		},
-		"Bronzong 660": {
+		"Bronzong-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1749,7 +1750,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Bronzong 835": {
+		"Bronzong-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1765,7 +1766,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Carracosta": {
-		"Carracosta 290": {
+		"Carracosta-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1780,7 +1781,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Sitrus Berry"
 		},
-		"Carracosta 465": {
+		"Carracosta-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1795,7 +1796,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Wide Lens"
 		},
-		"Carracosta 640": {
+		"Carracosta-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1809,7 +1810,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Carracosta 815": {
+		"Carracosta-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1826,7 +1827,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Chandelure": {
-		"Chandelure 339": {
+		"Chandelure-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1842,7 +1843,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Spell Tag"
 		},
-		"Chandelure 514": {
+		"Chandelure-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1857,7 +1858,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Chesto Berry"
 		},
-		"Chandelure 689": {
+		"Chandelure-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1872,7 +1873,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "White Herb"
 		},
-		"Chandelure 864": {
+		"Chandelure-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1889,7 +1890,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Charizard": {
-		"Charizard 210": {
+		"Charizard-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1905,7 +1906,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Salac Berry"
 		},
-		"Charizard 385": {
+		"Charizard-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1920,7 +1921,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Charti Berry"
 		},
-		"Charizard 560": {
+		"Charizard-3": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -1936,7 +1937,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Choice Scarf"
 		},
-		"Charizard 735": {
+		"Charizard-4": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -1954,7 +1955,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cinccino": {
-		"Cinccino 153": {
+		"Cinccino-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1968,7 +1969,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Cinccino 191": {
+		"Cinccino-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -1985,7 +1986,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Claydol": {
-		"Claydol 309": {
+		"Claydol-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -1999,7 +2000,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Calm"
 		},
-		"Claydol 484": {
+		"Claydol-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2014,7 +2015,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Sitrus Berry"
 		},
-		"Claydol 659": {
+		"Claydol-3": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -2029,7 +2030,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Ground Gem"
 		},
-		"Claydol 834": {
+		"Claydol-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2046,7 +2047,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cobalion": {
-		"Cobalion 918": {
+		"Cobalion-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2061,7 +2062,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Cobalion 938": {
+		"Cobalion-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2076,7 +2077,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Sitrus Berry"
 		},
-		"Cobalion 958": {
+		"Cobalion-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2090,7 +2091,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Cobalion 978": {
+		"Cobalion-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2107,7 +2108,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cofagrigus": {
-		"Cofagrigus 259": {
+		"Cofagrigus-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2122,7 +2123,7 @@ var SETDEX_BW = {
 			"nature": "Sassy",
 			"item": "Chesto Berry"
 		},
-		"Cofagrigus 434": {
+		"Cofagrigus-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2137,7 +2138,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Spell Tag"
 		},
-		"Cofagrigus 609": {
+		"Cofagrigus-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2152,7 +2153,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Sitrus Berry"
 		},
-		"Cofagrigus 784": {
+		"Cofagrigus-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2169,7 +2170,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Conkeldurr": {
-		"Conkeldurr 319": {
+		"Conkeldurr-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -2185,7 +2186,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Black Belt"
 		},
-		"Conkeldurr 494": {
+		"Conkeldurr-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2200,7 +2201,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Iron Ball"
 		},
-		"Conkeldurr 669": {
+		"Conkeldurr-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2215,7 +2216,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Conkeldurr 844": {
+		"Conkeldurr-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2232,7 +2233,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cottonee": {
-		"Cottonee 7": {
+		"Cottonee-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -2248,7 +2249,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Big Root"
 		},
-		"Cottonee 73": {
+		"Cottonee-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -2265,7 +2266,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cradily": {
-		"Cradily 284": {
+		"Cradily-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -2280,7 +2281,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Charti Berry"
 		},
-		"Cradily 459": {
+		"Cradily-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -2295,7 +2296,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Brave"
 		},
-		"Cradily 634": {
+		"Cradily-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2310,7 +2311,7 @@ var SETDEX_BW = {
 			"nature": "Relaxed",
 			"item": "Leftovers"
 		},
-		"Cradily 809": {
+		"Cradily-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2327,7 +2328,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cresselia": {
-		"Cresselia 926": {
+		"Cresselia-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2342,7 +2343,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Cresselia 946": {
+		"Cresselia-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2357,7 +2358,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Cresselia 966": {
+		"Cresselia-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2371,7 +2372,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Bold"
 		},
-		"Cresselia 986": {
+		"Cresselia-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2387,7 +2388,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Crobat": {
-		"Crobat 358": {
+		"Crobat-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2402,7 +2403,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Charti Berry"
 		},
-		"Crobat 533": {
+		"Crobat-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -2417,7 +2418,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Sharp Beak"
 		},
-		"Crobat 708": {
+		"Crobat-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2431,7 +2432,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Crobat 883": {
+		"Crobat-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2448,7 +2449,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Crustle": {
-		"Crustle 160": {
+		"Crustle-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2462,7 +2463,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Crustle 198": {
+		"Crustle-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2478,7 +2479,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cryogonal": {
-		"Cryogonal 268": {
+		"Cryogonal-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -2493,7 +2494,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Charti Berry"
 		},
-		"Cryogonal 443": {
+		"Cryogonal-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2508,7 +2509,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Occa Berry"
 		},
-		"Cryogonal 618": {
+		"Cryogonal-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -2523,7 +2524,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Occa Berry"
 		},
-		"Cryogonal 793": {
+		"Cryogonal-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -2540,7 +2541,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Cubchoo": {
-		"Cubchoo 30": {
+		"Cubchoo-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2555,7 +2556,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Occa Berry"
 		},
-		"Cubchoo 96": {
+		"Cubchoo-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2572,7 +2573,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Darmanitan": {
-		"Darmanitan 257": {
+		"Darmanitan-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2587,7 +2588,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Passho Berry"
 		},
-		"Darmanitan 432": {
+		"Darmanitan-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -2603,7 +2604,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Life Orb"
 		},
-		"Darmanitan 607": {
+		"Darmanitan-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2618,7 +2619,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Liechi Berry"
 		},
-		"Darmanitan 782": {
+		"Darmanitan-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -2635,7 +2636,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Darumaka": {
-		"Darumaka 37": {
+		"Darumaka-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2650,7 +2651,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Persim Berry"
 		},
-		"Darumaka 103": {
+		"Darumaka-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2667,7 +2668,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Deerling": {
-		"Deerling 46": {
+		"Deerling-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2682,7 +2683,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Pecha Berry"
 		},
-		"Deerling 112": {
+		"Deerling-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2699,7 +2700,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Deino": {
-		"Deino 20": {
+		"Deino-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2714,7 +2715,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Yache Berry"
 		},
-		"Deino 86": {
+		"Deino-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2731,7 +2732,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Dewgong": {
-		"Dewgong 240": {
+		"Dewgong-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2745,7 +2746,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Mild"
 		},
-		"Dewgong 415": {
+		"Dewgong-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -2759,7 +2760,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Rash"
 		},
-		"Dewgong 590": {
+		"Dewgong-3": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -2773,7 +2774,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Mild"
 		},
-		"Dewgong 765": {
+		"Dewgong-4": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -2791,7 +2792,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Dewott": {
-		"Dewott 137": {
+		"Dewott-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2805,7 +2806,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Dewott 175": {
+		"Dewott-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2821,7 +2822,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Donphan": {
-		"Donphan 307": {
+		"Donphan-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2836,7 +2837,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Metronome"
 		},
-		"Donphan 482": {
+		"Donphan-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2851,7 +2852,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Focus Sash"
 		},
-		"Donphan 657": {
+		"Donphan-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2866,7 +2867,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Sitrus Berry"
 		},
-		"Donphan 832": {
+		"Donphan-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2882,7 +2883,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Dragonite": {
-		"Dragonite 377": {
+		"Dragonite-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -2898,7 +2899,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Custap Berry"
 		},
-		"Dragonite 552": {
+		"Dragonite-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -2913,7 +2914,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Salac Berry"
 		},
-		"Dragonite 727": {
+		"Dragonite-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2928,7 +2929,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Choice Band"
 		},
-		"Dragonite 902": {
+		"Dragonite-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2944,7 +2945,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Drapion": {
-		"Drapion 311": {
+		"Drapion-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -2958,7 +2959,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Bold"
 		},
-		"Drapion 486": {
+		"Drapion-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2973,7 +2974,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Dark Gem"
 		},
-		"Drapion 661": {
+		"Drapion-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -2987,7 +2988,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Drapion 836": {
+		"Drapion-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3003,7 +3004,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Drifblim": {
-		"Drifblim 294": {
+		"Drifblim-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -3018,7 +3019,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Salac Berry"
 		},
-		"Drifblim 469": {
+		"Drifblim-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3032,7 +3033,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Mild"
 		},
-		"Drifblim 644": {
+		"Drifblim-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -3047,7 +3048,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Wise Glasses"
 		},
-		"Drifblim 819": {
+		"Drifblim-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3064,7 +3065,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Drilbur": {
-		"Drilbur 43": {
+		"Drilbur-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3079,7 +3080,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Rindo Berry"
 		},
-		"Drilbur 109": {
+		"Drilbur-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3095,7 +3096,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Druddigon": {
-		"Druddigon 269": {
+		"Druddigon-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3110,7 +3111,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chople Berry"
 		},
-		"Druddigon 444": {
+		"Druddigon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -3125,7 +3126,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Lonely"
 		},
-		"Druddigon 619": {
+		"Druddigon-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3139,7 +3140,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Druddigon 794": {
+		"Druddigon-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3156,7 +3157,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ducklett": {
-		"Ducklett 27": {
+		"Ducklett-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3171,7 +3172,7 @@ var SETDEX_BW = {
 			"nature": "Serious",
 			"item": "Sharp Beak"
 		},
-		"Ducklett 93": {
+		"Ducklett-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3188,7 +3189,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Dugtrio": {
-		"Dugtrio 224": {
+		"Dugtrio-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3203,7 +3204,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Focus Sash"
 		},
-		"Dugtrio 399": {
+		"Dugtrio-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3218,7 +3219,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Choice Band"
 		},
-		"Dugtrio 574": {
+		"Dugtrio-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3233,7 +3234,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Band"
 		},
-		"Dugtrio 749": {
+		"Dugtrio-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3249,7 +3250,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Duosion": {
-		"Duosion 57": {
+		"Duosion-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3264,7 +3265,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Focus Band"
 		},
-		"Duosion 123": {
+		"Duosion-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3280,7 +3281,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Durant": {
-		"Durant 261": {
+		"Durant-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -3296,7 +3297,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Sitrus Berry"
 		},
-		"Durant 436": {
+		"Durant-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -3311,7 +3312,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Power Herb"
 		},
-		"Durant 611": {
+		"Durant-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3326,7 +3327,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Occa Berry"
 		},
-		"Durant 786": {
+		"Durant-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3343,7 +3344,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Dusknoir": {
-		"Dusknoir 350": {
+		"Dusknoir-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3358,7 +3359,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Dusknoir 525": {
+		"Dusknoir-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3373,7 +3374,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Iron Ball"
 		},
-		"Dusknoir 700": {
+		"Dusknoir-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3388,7 +3389,7 @@ var SETDEX_BW = {
 			"nature": "Sassy",
 			"item": "Leftovers"
 		},
-		"Dusknoir 875": {
+		"Dusknoir-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3404,7 +3405,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Dwebble": {
-		"Dwebble 41": {
+		"Dwebble-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3419,7 +3420,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Ring Target"
 		},
-		"Dwebble 107": {
+		"Dwebble-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3435,7 +3436,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Eelektrik": {
-		"Eelektrik 152": {
+		"Eelektrik-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3449,7 +3450,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hardy"
 		},
-		"Eelektrik 190": {
+		"Eelektrik-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3466,7 +3467,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Eelektross": {
-		"Eelektross 364": {
+		"Eelektross-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3481,7 +3482,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Magnet"
 		},
-		"Eelektross 539": {
+		"Eelektross-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3496,7 +3497,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Expert Belt"
 		},
-		"Eelektross 714": {
+		"Eelektross-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3511,7 +3512,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Sitrus Berry"
 		},
-		"Eelektross 889": {
+		"Eelektross-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3528,7 +3529,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Electivire": {
-		"Electivire 370": {
+		"Electivire-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -3544,7 +3545,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Expert Belt"
 		},
-		"Electivire 545": {
+		"Electivire-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -3560,7 +3561,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Shuca Berry"
 		},
-		"Electivire 720": {
+		"Electivire-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3575,7 +3576,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Air Balloon"
 		},
-		"Electivire 895": {
+		"Electivire-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3592,7 +3593,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Electrode": {
-		"Electrode 250": {
+		"Electrode-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3607,7 +3608,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Shuca Berry"
 		},
-		"Electrode 425": {
+		"Electrode-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3622,7 +3623,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Focus Sash"
 		},
-		"Electrode 600": {
+		"Electrode-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3637,7 +3638,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Air Balloon"
 		},
-		"Electrode 775": {
+		"Electrode-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3653,7 +3654,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Elgyem": {
-		"Elgyem 48": {
+		"Elgyem-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3668,7 +3669,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Persim Berry"
 		},
-		"Elgyem 114": {
+		"Elgyem-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3684,7 +3685,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Emboar": {
-		"Emboar 222": {
+		"Emboar-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3699,7 +3700,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chesto Berry"
 		},
-		"Emboar 397": {
+		"Emboar-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -3714,7 +3715,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Brave"
 		},
-		"Emboar 572": {
+		"Emboar-3": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -3729,7 +3730,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Emboar 747": {
+		"Emboar-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3746,7 +3747,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Emolga": {
-		"Emolga 142": {
+		"Emolga-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -3761,7 +3762,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hardy"
 		},
-		"Emolga 180": {
+		"Emolga-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -3779,7 +3780,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Empoleon": {
-		"Empoleon 220": {
+		"Empoleon-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3794,7 +3795,7 @@ var SETDEX_BW = {
 			"nature": "Lax",
 			"item": "Sitrus Berry"
 		},
-		"Empoleon 395": {
+		"Empoleon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -3810,7 +3811,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Muscle Band"
 		},
-		"Empoleon 570": {
+		"Empoleon-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3824,7 +3825,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Quiet"
 		},
-		"Empoleon 745": {
+		"Empoleon-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3841,7 +3842,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Entei": {
-		"Entei 913": {
+		"Entei-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -3856,7 +3857,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Focus Sash"
 		},
-		"Entei 933": {
+		"Entei-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -3872,7 +3873,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Entei 953": {
+		"Entei-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3887,7 +3888,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Choice Scarf"
 		},
-		"Entei 973": {
+		"Entei-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3904,7 +3905,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Escavalier": {
-		"Escavalier 291": {
+		"Escavalier-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3919,7 +3920,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Liechi Berry"
 		},
-		"Escavalier 466": {
+		"Escavalier-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3933,7 +3934,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naughty"
 		},
-		"Escavalier 641": {
+		"Escavalier-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3948,7 +3949,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Life Orb"
 		},
-		"Escavalier 816": {
+		"Escavalier-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3965,7 +3966,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Espeon": {
-		"Espeon 343": {
+		"Espeon-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -3980,7 +3981,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Focus Sash"
 		},
-		"Espeon 518": {
+		"Espeon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -3995,7 +3996,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Kasib Berry"
 		},
-		"Espeon 693": {
+		"Espeon-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4009,7 +4010,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Espeon 868": {
+		"Espeon-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4026,7 +4027,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Excadrill": {
-		"Excadrill 320": {
+		"Excadrill-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4041,7 +4042,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Soft Sand"
 		},
-		"Excadrill 495": {
+		"Excadrill-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4056,7 +4057,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chople Berry"
 		},
-		"Excadrill 670": {
+		"Excadrill-3": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -4071,7 +4072,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Excadrill 845": {
+		"Excadrill-4": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -4089,7 +4090,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Exeggutor": {
-		"Exeggutor 335": {
+		"Exeggutor-1": {
 			"level": 50,
 			"evs": {
 				"sp": 168,
@@ -4105,7 +4106,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Petaya Berry"
 		},
-		"Exeggutor 510": {
+		"Exeggutor-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -4121,7 +4122,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Sitrus Berry"
 		},
-		"Exeggutor 685": {
+		"Exeggutor-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4136,7 +4137,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Expert Belt"
 		},
-		"Exeggutor 860": {
+		"Exeggutor-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4152,7 +4153,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Exploud": {
-		"Exploud 253": {
+		"Exploud-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4167,7 +4168,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Chople Berry"
 		},
-		"Exploud 428": {
+		"Exploud-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4182,7 +4183,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Chople Berry"
 		},
-		"Exploud 603": {
+		"Exploud-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4197,7 +4198,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Expert Belt"
 		},
-		"Exploud 778": {
+		"Exploud-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4214,7 +4215,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Feraligatr": {
-		"Feraligatr 214": {
+		"Feraligatr-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4228,7 +4229,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Careful"
 		},
-		"Feraligatr 389": {
+		"Feraligatr-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -4244,7 +4245,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Liechi Berry"
 		},
-		"Feraligatr 564": {
+		"Feraligatr-3": {
 			"level": 50,
 			"evs": {
 				"hp": 124,
@@ -4260,7 +4261,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Feraligatr 739": {
+		"Feraligatr-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4277,7 +4278,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ferroseed": {
-		"Ferroseed 29": {
+		"Ferroseed-1": {
 			"level": 50,
 			"moves": [
 				"Metal Claw",
@@ -4287,7 +4288,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hardy"
 		},
-		"Ferroseed 95": {
+		"Ferroseed-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4303,7 +4304,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ferrothorn": {
-		"Ferrothorn 272": {
+		"Ferrothorn-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4318,7 +4319,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Leftovers"
 		},
-		"Ferrothorn 447": {
+		"Ferrothorn-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4333,7 +4334,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chesto Berry"
 		},
-		"Ferrothorn 622": {
+		"Ferrothorn-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4348,7 +4349,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Custap Berry"
 		},
-		"Ferrothorn 797": {
+		"Ferrothorn-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4365,7 +4366,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Flareon": {
-		"Flareon 342": {
+		"Flareon-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4380,7 +4381,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Focus Sash"
 		},
-		"Flareon 517": {
+		"Flareon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4395,7 +4396,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Charcoal"
 		},
-		"Flareon 692": {
+		"Flareon-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4410,7 +4411,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "White Herb"
 		},
-		"Flareon 867": {
+		"Flareon-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4427,7 +4428,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Floatzel": {
-		"Floatzel 288": {
+		"Floatzel-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4442,7 +4443,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Binding Band"
 		},
-		"Floatzel 463": {
+		"Floatzel-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4457,7 +4458,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Flame Orb"
 		},
-		"Floatzel 638": {
+		"Floatzel-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4471,7 +4472,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hasty"
 		},
-		"Floatzel 813": {
+		"Floatzel-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4488,7 +4489,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Flygon": {
-		"Flygon 337": {
+		"Flygon-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4503,7 +4504,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Liechi Berry"
 		},
-		"Flygon 512": {
+		"Flygon-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4518,7 +4519,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Haban Berry"
 		},
-		"Flygon 687": {
+		"Flygon-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4533,7 +4534,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Flygon 862": {
+		"Flygon-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4549,7 +4550,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Foongus": {
-		"Foongus 16": {
+		"Foongus-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4564,7 +4565,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Big Root"
 		},
-		"Foongus 82": {
+		"Foongus-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4580,7 +4581,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Forretress": {
-		"Forretress 233": {
+		"Forretress-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4595,7 +4596,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Occa Berry"
 		},
-		"Forretress 408": {
+		"Forretress-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4610,7 +4611,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Sitrus Berry"
 		},
-		"Forretress 583": {
+		"Forretress-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4625,7 +4626,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Iron Ball"
 		},
-		"Forretress 758": {
+		"Forretress-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4642,7 +4643,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Fraxure": {
-		"Fraxure 134": {
+		"Fraxure-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4657,7 +4658,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Persim Berry"
 		},
-		"Fraxure 172": {
+		"Fraxure-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4673,7 +4674,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Frillish": {
-		"Frillish 47": {
+		"Frillish-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -4688,7 +4689,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Sitrus Berry"
 		},
-		"Frillish 113": {
+		"Frillish-2": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -4704,7 +4705,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Froslass": {
-		"Froslass 255": {
+		"Froslass-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4718,7 +4719,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Froslass 430": {
+		"Froslass-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4733,7 +4734,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Ice Gem"
 		},
-		"Froslass 605": {
+		"Froslass-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4747,7 +4748,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Froslass 780": {
+		"Froslass-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4764,7 +4765,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gallade": {
-		"Gallade 334": {
+		"Gallade-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4779,7 +4780,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Expert Belt"
 		},
-		"Gallade 509": {
+		"Gallade-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4793,7 +4794,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Gallade 684": {
+		"Gallade-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4807,7 +4808,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Gallade 859": {
+		"Gallade-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4823,7 +4824,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Galvantula": {
-		"Galvantula 156": {
+		"Galvantula-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4837,7 +4838,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Galvantula 194": {
+		"Galvantula-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4854,7 +4855,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Garbodor": {
-		"Garbodor 158": {
+		"Garbodor-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4869,7 +4870,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Black Sludge"
 		},
-		"Garbodor 196": {
+		"Garbodor-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4885,7 +4886,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Garchomp": {
-		"Garchomp 381": {
+		"Garchomp-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -4899,7 +4900,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Garchomp 556": {
+		"Garchomp-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4914,7 +4915,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Razor Fang"
 		},
-		"Garchomp 731": {
+		"Garchomp-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4929,7 +4930,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Choice Scarf"
 		},
-		"Garchomp 906": {
+		"Garchomp-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -4946,7 +4947,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gardevoir": {
-		"Gardevoir 333": {
+		"Gardevoir-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -4962,7 +4963,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Wide Lens"
 		},
-		"Gardevoir 508": {
+		"Gardevoir-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -4976,7 +4977,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naive"
 		},
-		"Gardevoir 683": {
+		"Gardevoir-3": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -4990,7 +4991,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Gardevoir 858": {
+		"Gardevoir-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -5007,7 +5008,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gastrodon": {
-		"Gastrodon 243": {
+		"Gastrodon-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -5021,7 +5022,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Gentle"
 		},
-		"Gastrodon 418": {
+		"Gastrodon-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -5037,7 +5038,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Rindo Berry"
 		},
-		"Gastrodon 593": {
+		"Gastrodon-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -5052,7 +5053,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Leftovers"
 		},
-		"Gastrodon 768": {
+		"Gastrodon-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -5069,7 +5070,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gengar": {
-		"Gengar 299": {
+		"Gengar-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -5084,7 +5085,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Gengar 474": {
+		"Gengar-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5099,7 +5100,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Expert Belt"
 		},
-		"Gengar 649": {
+		"Gengar-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -5114,7 +5115,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Gengar 824": {
+		"Gengar-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -5130,7 +5131,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gigalith": {
-		"Gigalith 318": {
+		"Gigalith-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5146,7 +5147,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Rawst Berry"
 		},
-		"Gigalith 493": {
+		"Gigalith-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5161,7 +5162,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Hard Stone"
 		},
-		"Gigalith 668": {
+		"Gigalith-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5176,7 +5177,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Custap Berry"
 		},
-		"Gigalith 843": {
+		"Gigalith-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5193,7 +5194,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Glaceon": {
-		"Glaceon 346": {
+		"Glaceon-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5207,7 +5208,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Rash"
 		},
-		"Glaceon 521": {
+		"Glaceon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5222,7 +5223,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Glaceon 696": {
+		"Glaceon-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -5237,7 +5238,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Focus Sash"
 		},
-		"Glaceon 871": {
+		"Glaceon-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -5253,7 +5254,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gliscor": {
-		"Gliscor 324": {
+		"Gliscor-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5268,7 +5269,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Razor Fang"
 		},
-		"Gliscor 499": {
+		"Gliscor-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5283,7 +5284,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Liechi Berry"
 		},
-		"Gliscor 674": {
+		"Gliscor-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5298,7 +5299,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Expert Belt"
 		},
-		"Gliscor 849": {
+		"Gliscor-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5315,7 +5316,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Golem": {
-		"Golem 262": {
+		"Golem-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5331,7 +5332,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Hard Stone"
 		},
-		"Golem 437": {
+		"Golem-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5345,7 +5346,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naughty"
 		},
-		"Golem 612": {
+		"Golem-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5360,7 +5361,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Golem 787": {
+		"Golem-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5377,7 +5378,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Golett": {
-		"Golett 25": {
+		"Golett-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5392,7 +5393,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Liechi Berry"
 		},
-		"Golett 91": {
+		"Golett-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5409,7 +5410,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Golurk": {
-		"Golurk 260": {
+		"Golurk-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5424,7 +5425,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Muscle Band"
 		},
-		"Golurk 435": {
+		"Golurk-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5439,7 +5440,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Wide Lens"
 		},
-		"Golurk 610": {
+		"Golurk-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5453,7 +5454,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Golurk 785": {
+		"Golurk-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5470,7 +5471,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gothita": {
-		"Gothita 11": {
+		"Gothita-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -5485,7 +5486,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Persim Berry"
 		},
-		"Gothita 77": {
+		"Gothita-2": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -5502,7 +5503,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gothitelle": {
-		"Gothitelle 278": {
+		"Gothitelle-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5518,7 +5519,7 @@ var SETDEX_BW = {
 			"nature": "Sassy",
 			"item": "Chesto Berry"
 		},
-		"Gothitelle 453": {
+		"Gothitelle-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5533,7 +5534,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Gothitelle 628": {
+		"Gothitelle-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5548,7 +5549,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Gothitelle 803": {
+		"Gothitelle-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5564,7 +5565,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gothorita": {
-		"Gothorita 64": {
+		"Gothorita-1": {
 			"level": 50,
 			"moves": [
 				"Psybeam",
@@ -5575,7 +5576,7 @@ var SETDEX_BW = {
 			"nature": "Hardy",
 			"item": "Persim Berry"
 		},
-		"Gothorita 130": {
+		"Gothorita-2": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -5591,7 +5592,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Granbull": {
-		"Granbull 228": {
+		"Granbull-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5607,7 +5608,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Jaboca Berry"
 		},
-		"Granbull 403": {
+		"Granbull-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5622,7 +5623,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Silk Scarf"
 		},
-		"Granbull 578": {
+		"Granbull-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5636,7 +5637,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Granbull 753": {
+		"Granbull-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5653,7 +5654,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gurdurr": {
-		"Gurdurr 133": {
+		"Gurdurr-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5668,7 +5669,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Zoom Lens"
 		},
-		"Gurdurr 171": {
+		"Gurdurr-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5685,7 +5686,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Gyarados": {
-		"Gyarados 365": {
+		"Gyarados-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5701,7 +5702,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Muscle Band"
 		},
-		"Gyarados 540": {
+		"Gyarados-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5716,7 +5717,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Chesto Berry"
 		},
-		"Gyarados 715": {
+		"Gyarados-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5731,7 +5732,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Wacan Berry"
 		},
-		"Gyarados 890": {
+		"Gyarados-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5748,7 +5749,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Hariyama": {
-		"Hariyama 237": {
+		"Hariyama-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -5764,7 +5765,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "King's Rock"
 		},
-		"Hariyama 412": {
+		"Hariyama-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -5779,7 +5780,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Custap Berry"
 		},
-		"Hariyama 587": {
+		"Hariyama-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5794,7 +5795,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Flame Orb"
 		},
-		"Hariyama 762": {
+		"Hariyama-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -5811,7 +5812,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Haxorus": {
-		"Haxorus 372": {
+		"Haxorus-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5826,7 +5827,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Haban Berry"
 		},
-		"Haxorus 547": {
+		"Haxorus-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5842,7 +5843,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Persim Berry"
 		},
-		"Haxorus 722": {
+		"Haxorus-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5857,7 +5858,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Band"
 		},
-		"Haxorus 897": {
+		"Haxorus-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5874,7 +5875,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Heatmor": {
-		"Heatmor 164": {
+		"Heatmor-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5888,7 +5889,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Heatmor 202": {
+		"Heatmor-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -5905,7 +5906,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Heatran": {
-		"Heatran 925": {
+		"Heatran-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5920,7 +5921,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Focus Sash"
 		},
-		"Heatran 945": {
+		"Heatran-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5935,7 +5936,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "White Herb"
 		},
-		"Heatran 965": {
+		"Heatran-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5950,7 +5951,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Shuca Berry"
 		},
-		"Heatran 985": {
+		"Heatran-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -5967,7 +5968,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Heracross": {
-		"Heracross 304": {
+		"Heracross-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -5983,7 +5984,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Black Belt"
 		},
-		"Heracross 479": {
+		"Heracross-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -5998,7 +5999,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Salac Berry"
 		},
-		"Heracross 654": {
+		"Heracross-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6013,7 +6014,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Coba Berry"
 		},
-		"Heracross 829": {
+		"Heracross-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6030,7 +6031,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Herdier": {
-		"Herdier 60": {
+		"Herdier-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6045,7 +6046,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Silk Scarf"
 		},
-		"Herdier 126": {
+		"Herdier-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6062,7 +6063,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Hippowdon": {
-		"Hippowdon 348": {
+		"Hippowdon-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6077,7 +6078,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Soft Sand"
 		},
-		"Hippowdon 523": {
+		"Hippowdon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6092,7 +6093,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Sitrus Berry"
 		},
-		"Hippowdon 698": {
+		"Hippowdon-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6107,7 +6108,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Hippowdon 873": {
+		"Hippowdon-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6124,7 +6125,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Honchkrow": {
-		"Honchkrow 317": {
+		"Honchkrow-1": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -6140,7 +6141,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Sitrus Berry"
 		},
-		"Honchkrow 492": {
+		"Honchkrow-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6154,7 +6155,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Brave"
 		},
-		"Honchkrow 667": {
+		"Honchkrow-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6169,7 +6170,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Life Orb"
 		},
-		"Honchkrow 842": {
+		"Honchkrow-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6186,7 +6187,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Houndoom": {
-		"Houndoom 306": {
+		"Houndoom-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6201,7 +6202,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Charcoal"
 		},
-		"Houndoom 481": {
+		"Houndoom-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6216,7 +6217,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Focus Sash"
 		},
-		"Houndoom 656": {
+		"Houndoom-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6231,7 +6232,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Air Balloon"
 		},
-		"Houndoom 831": {
+		"Houndoom-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6248,7 +6249,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Hydreigon": {
-		"Hydreigon 382": {
+		"Hydreigon-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6263,7 +6264,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Dragon Fang"
 		},
-		"Hydreigon 557": {
+		"Hydreigon-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -6279,7 +6280,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Wide Lens"
 		},
-		"Hydreigon 732": {
+		"Hydreigon-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6294,7 +6295,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Hydreigon 907": {
+		"Hydreigon-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6311,7 +6312,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Infernape": {
-		"Infernape 219": {
+		"Infernape-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6326,7 +6327,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "King's Rock"
 		},
-		"Infernape 394": {
+		"Infernape-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -6342,7 +6343,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Charcoal"
 		},
-		"Infernape 569": {
+		"Infernape-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6357,7 +6358,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Life Orb"
 		},
-		"Infernape 744": {
+		"Infernape-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6374,7 +6375,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Jellicent": {
-		"Jellicent 163": {
+		"Jellicent-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6388,7 +6389,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Calm"
 		},
-		"Jellicent 201": {
+		"Jellicent-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6405,7 +6406,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Jolteon": {
-		"Jolteon 341": {
+		"Jolteon-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6420,7 +6421,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Magnet"
 		},
-		"Jolteon 516": {
+		"Jolteon-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6434,7 +6435,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Jolteon 691": {
+		"Jolteon-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6449,7 +6450,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "King's Rock"
 		},
-		"Jolteon 866": {
+		"Jolteon-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6466,7 +6467,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Joltik": {
-		"Joltik 39": {
+		"Joltik-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6481,7 +6482,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Liechi Berry"
 		},
-		"Joltik 105": {
+		"Joltik-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6498,7 +6499,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Jynx": {
-		"Jynx 229": {
+		"Jynx-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6513,7 +6514,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Enigma Berry"
 		},
-		"Jynx 404": {
+		"Jynx-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6528,7 +6529,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Destiny Knot"
 		},
-		"Jynx 579": {
+		"Jynx-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6543,7 +6544,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Expert Belt"
 		},
-		"Jynx 754": {
+		"Jynx-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6560,7 +6561,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Kangaskhan": {
-		"Kangaskhan 265": {
+		"Kangaskhan-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6575,7 +6576,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Kangaskhan 440": {
+		"Kangaskhan-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6590,7 +6591,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Salac Berry"
 		},
-		"Kangaskhan 615": {
+		"Kangaskhan-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6605,7 +6606,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Chople Berry"
 		},
-		"Kangaskhan 790": {
+		"Kangaskhan-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6622,7 +6623,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Karrablast": {
-		"Karrablast 38": {
+		"Karrablast-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6637,7 +6638,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Coba Berry"
 		},
-		"Karrablast 104": {
+		"Karrablast-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6653,7 +6654,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Kingdra": {
-		"Kingdra 367": {
+		"Kingdra-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -6669,7 +6670,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Persim Berry"
 		},
-		"Kingdra 542": {
+		"Kingdra-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -6685,7 +6686,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Haban Berry"
 		},
-		"Kingdra 717": {
+		"Kingdra-3": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -6701,7 +6702,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Kingdra 892": {
+		"Kingdra-4": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -6719,7 +6720,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Klang": {
-		"Klang 143": {
+		"Klang-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6734,7 +6735,7 @@ var SETDEX_BW = {
 			"nature": "Hardy",
 			"item": "Shuca Berry"
 		},
-		"Klang 181": {
+		"Klang-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6751,7 +6752,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Klink": {
-		"Klink 19": {
+		"Klink-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6766,7 +6767,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Binding Band"
 		},
-		"Klink 85": {
+		"Klink-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6783,7 +6784,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Klinklang": {
-		"Klinklang 338": {
+		"Klinklang-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6798,7 +6799,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Shuca Berry"
 		},
-		"Klinklang 513": {
+		"Klinklang-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6813,7 +6814,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "White Herb"
 		},
-		"Klinklang 688": {
+		"Klinklang-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6828,7 +6829,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Occa Berry"
 		},
-		"Klinklang 863": {
+		"Klinklang-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -6845,7 +6846,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Krokorok": {
-		"Krokorok 52": {
+		"Krokorok-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6860,7 +6861,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Soft Sand"
 		},
-		"Krokorok 118": {
+		"Krokorok-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6877,7 +6878,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Krookodile": {
-		"Krookodile 321": {
+		"Krookodile-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -6892,7 +6893,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naughty"
 		},
-		"Krookodile 496": {
+		"Krookodile-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6907,7 +6908,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Rock Gem"
 		},
-		"Krookodile 671": {
+		"Krookodile-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6922,7 +6923,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Dark Gem"
 		},
-		"Krookodile 846": {
+		"Krookodile-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6939,7 +6940,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lampent": {
-		"Lampent 58": {
+		"Lampent-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6953,7 +6954,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Lampent 124": {
+		"Lampent-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -6969,7 +6970,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Landorus": {
-		"Landorus 927": {
+		"Landorus-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6984,7 +6985,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Focus Sash"
 		},
-		"Landorus 947": {
+		"Landorus-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -6999,7 +7000,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Choice Scarf"
 		},
-		"Landorus 967": {
+		"Landorus-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7014,7 +7015,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Ground Gem"
 		},
-		"Landorus 987": {
+		"Landorus-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7031,7 +7032,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lanturn": {
-		"Lanturn 231": {
+		"Lanturn-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7046,7 +7047,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Salac Berry"
 		},
-		"Lanturn 406": {
+		"Lanturn-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -7061,7 +7062,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Sitrus Berry"
 		},
-		"Lanturn 581": {
+		"Lanturn-3": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -7077,7 +7078,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Petaya Berry"
 		},
-		"Lanturn 756": {
+		"Lanturn-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -7094,7 +7095,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lapras": {
-		"Lapras 357": {
+		"Lapras-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -7108,7 +7109,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Quiet"
 		},
-		"Lapras 532": {
+		"Lapras-2": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -7124,7 +7125,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Mystic Water"
 		},
-		"Lapras 707": {
+		"Lapras-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7138,7 +7139,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Lapras 882": {
+		"Lapras-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -7155,7 +7156,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Larvesta": {
-		"Larvesta 56": {
+		"Larvesta-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7170,7 +7171,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chesto Berry"
 		},
-		"Larvesta 122": {
+		"Larvesta-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7187,7 +7188,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Latias": {
-		"Latias 923": {
+		"Latias-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7202,7 +7203,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Latias 943": {
+		"Latias-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7217,7 +7218,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Latias 963": {
+		"Latias-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7232,7 +7233,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Choice Specs"
 		},
-		"Latias 983": {
+		"Latias-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7249,7 +7250,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Latios": {
-		"Latios 924": {
+		"Latios-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7264,7 +7265,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Latios 944": {
+		"Latios-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7279,7 +7280,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Latios 964": {
+		"Latios-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7294,7 +7295,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Choice Specs"
 		},
-		"Latios 984": {
+		"Latios-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7311,7 +7312,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Leafeon": {
-		"Leafeon 345": {
+		"Leafeon-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7325,7 +7326,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Impish"
 		},
-		"Leafeon 520": {
+		"Leafeon-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7340,7 +7341,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Liechi Berry"
 		},
-		"Leafeon 695": {
+		"Leafeon-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7354,7 +7355,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Leafeon 870": {
+		"Leafeon-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7370,7 +7371,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Leavanny": {
-		"Leavanny 168": {
+		"Leavanny-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7385,7 +7386,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Razor Fang"
 		},
-		"Leavanny 206": {
+		"Leavanny-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7401,7 +7402,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lickilicky": {
-		"Lickilicky 331": {
+		"Lickilicky-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -7417,7 +7418,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Sitrus Berry"
 		},
-		"Lickilicky 506": {
+		"Lickilicky-2": {
 			"level": 50,
 			"evs": {
 				"hp": 124,
@@ -7434,7 +7435,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chople Berry"
 		},
-		"Lickilicky 681": {
+		"Lickilicky-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7449,7 +7450,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Leftovers"
 		},
-		"Lickilicky 856": {
+		"Lickilicky-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7465,7 +7466,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Liepard": {
-		"Liepard 145": {
+		"Liepard-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7480,7 +7481,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Salac Berry"
 		},
-		"Liepard 183": {
+		"Liepard-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7496,7 +7497,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lilligant": {
-		"Lilligant 256": {
+		"Lilligant-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7511,7 +7512,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Persim Berry"
 		},
-		"Lilligant 431": {
+		"Lilligant-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -7527,7 +7528,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Big Root"
 		},
-		"Lilligant 606": {
+		"Lilligant-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7542,7 +7543,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Lilligant 781": {
+		"Lilligant-4": {
 			"level": 50,
 			"evs": {
 				"hp": 124,
@@ -7560,7 +7561,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lillipup": {
-		"Lillipup 4": {
+		"Lillipup-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7575,7 +7576,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chople Berry"
 		},
-		"Lillipup 70": {
+		"Lillipup-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7592,7 +7593,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Litwick": {
-		"Litwick 5": {
+		"Litwick-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7607,7 +7608,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Persim Berry"
 		},
-		"Litwick 71": {
+		"Litwick-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7623,7 +7624,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lopunny": {
-		"Lopunny 254": {
+		"Lopunny-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7638,7 +7639,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Toxic Orb"
 		},
-		"Lopunny 429": {
+		"Lopunny-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7653,7 +7654,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Liechi Berry"
 		},
-		"Lopunny 604": {
+		"Lopunny-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7668,7 +7669,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Chople Berry"
 		},
-		"Lopunny 779": {
+		"Lopunny-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7685,7 +7686,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Lucario": {
-		"Lucario 347": {
+		"Lucario-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7700,7 +7701,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Black Belt"
 		},
-		"Lucario 522": {
+		"Lucario-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7715,7 +7716,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Lucario 697": {
+		"Lucario-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7730,7 +7731,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Muscle Band"
 		},
-		"Lucario 872": {
+		"Lucario-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7747,7 +7748,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ludicolo": {
-		"Ludicolo 251": {
+		"Ludicolo-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -7763,7 +7764,7 @@ var SETDEX_BW = {
 			"nature": "Lax",
 			"item": "Leftovers"
 		},
-		"Ludicolo 426": {
+		"Ludicolo-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -7779,7 +7780,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Tanga Berry"
 		},
-		"Ludicolo 601": {
+		"Ludicolo-3": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -7795,7 +7796,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Ludicolo 776": {
+		"Ludicolo-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7812,7 +7813,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Luxray": {
-		"Luxray 312": {
+		"Luxray-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7827,7 +7828,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Magnet"
 		},
-		"Luxray 487": {
+		"Luxray-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7841,7 +7842,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Careful"
 		},
-		"Luxray 662": {
+		"Luxray-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7856,7 +7857,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "White Herb"
 		},
-		"Luxray 837": {
+		"Luxray-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7873,7 +7874,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Machamp": {
-		"Machamp 314": {
+		"Machamp-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7888,7 +7889,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Rawst Berry"
 		},
-		"Machamp 489": {
+		"Machamp-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7903,7 +7904,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Expert Belt"
 		},
-		"Machamp 664": {
+		"Machamp-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7918,7 +7919,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Scarf"
 		},
-		"Machamp 839": {
+		"Machamp-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -7935,7 +7936,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Magmortar": {
-		"Magmortar 371": {
+		"Magmortar-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -7950,7 +7951,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Passho Berry"
 		},
-		"Magmortar 546": {
+		"Magmortar-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7965,7 +7966,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Wide Lens"
 		},
-		"Magmortar 721": {
+		"Magmortar-3": {
 			"level": 50,
 			"evs": {
 				"sp": 508
@@ -7979,7 +7980,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Passho Berry"
 		},
-		"Magmortar 896": {
+		"Magmortar-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -7996,7 +7997,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Magnezone": {
-		"Magnezone 359": {
+		"Magnezone-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8011,7 +8012,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Magnet"
 		},
-		"Magnezone 534": {
+		"Magnezone-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8026,7 +8027,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Shuca Berry"
 		},
-		"Magnezone 709": {
+		"Magnezone-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -8040,7 +8041,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Magnezone 884": {
+		"Magnezone-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -8057,7 +8058,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Mamoswine": {
-		"Mamoswine 356": {
+		"Mamoswine-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -8073,7 +8074,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Passho Berry"
 		},
-		"Mamoswine 531": {
+		"Mamoswine-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -8089,7 +8090,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Zoom Lens"
 		},
-		"Mamoswine 706": {
+		"Mamoswine-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8103,7 +8104,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Mamoswine 881": {
+		"Mamoswine-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8120,7 +8121,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Mandibuzz": {
-		"Mandibuzz 326": {
+		"Mandibuzz-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8135,7 +8136,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Wacan Berry"
 		},
-		"Mandibuzz 501": {
+		"Mandibuzz-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8150,7 +8151,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Flying Gem"
 		},
-		"Mandibuzz 676": {
+		"Mandibuzz-3": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -8166,7 +8167,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Mandibuzz 851": {
+		"Mandibuzz-4": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -8184,7 +8185,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Manectric": {
-		"Manectric 241": {
+		"Manectric-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8199,7 +8200,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Life Orb"
 		},
-		"Manectric 416": {
+		"Manectric-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8214,7 +8215,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Charcoal"
 		},
-		"Manectric 591": {
+		"Manectric-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8229,7 +8230,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Air Balloon"
 		},
-		"Manectric 766": {
+		"Manectric-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8246,7 +8247,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Maractus": {
-		"Maractus 147": {
+		"Maractus-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8261,7 +8262,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Big Root"
 		},
-		"Maractus 185": {
+		"Maractus-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8277,7 +8278,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Marowak": {
-		"Marowak 225": {
+		"Marowak-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8292,7 +8293,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Salac Berry"
 		},
-		"Marowak 400": {
+		"Marowak-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8307,7 +8308,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Iron Ball"
 		},
-		"Marowak 575": {
+		"Marowak-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8322,7 +8323,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Thick Club"
 		},
-		"Marowak 750": {
+		"Marowak-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8339,7 +8340,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Medicham": {
-		"Medicham 226": {
+		"Medicham-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8354,7 +8355,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Black Belt"
 		},
-		"Medicham 401": {
+		"Medicham-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8368,7 +8369,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Medicham 576": {
+		"Medicham-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8383,7 +8384,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Expert Belt"
 		},
-		"Medicham 751": {
+		"Medicham-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8400,7 +8401,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Meganium": {
-		"Meganium 212": {
+		"Meganium-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8415,7 +8416,7 @@ var SETDEX_BW = {
 			"nature": "Gentle",
 			"item": "Sitrus Berry"
 		},
-		"Meganium 387": {
+		"Meganium-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8430,7 +8431,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Meganium 562": {
+		"Meganium-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8444,7 +8445,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Meganium 737": {
+		"Meganium-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -8461,7 +8462,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Metagross": {
-		"Metagross 380": {
+		"Metagross-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8476,7 +8477,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Occa Berry"
 		},
-		"Metagross 555": {
+		"Metagross-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -8492,7 +8493,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Occa Berry"
 		},
-		"Metagross 730": {
+		"Metagross-3": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -8508,7 +8509,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Occa Berry"
 		},
-		"Metagross 905": {
+		"Metagross-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8525,7 +8526,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Mienfoo": {
-		"Mienfoo 9": {
+		"Mienfoo-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8540,7 +8541,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Cheri Berry"
 		},
-		"Mienfoo 75": {
+		"Mienfoo-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8557,7 +8558,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Mienshao": {
-		"Mienshao 135": {
+		"Mienshao-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8572,7 +8573,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Muscle Band"
 		},
-		"Mienshao 173": {
+		"Mienshao-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8587,7 +8588,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Power Herb"
 		},
-		"Mienshao 351": {
+		"Mienshao-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8602,7 +8603,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Salac Berry"
 		},
-		"Mienshao 526": {
+		"Mienshao-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8617,7 +8618,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "King's Rock"
 		},
-		"Mienshao 701": {
+		"Mienshao-5": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8632,7 +8633,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Mienshao 876": {
+		"Mienshao-6": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8649,7 +8650,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Milotic": {
-		"Milotic 369": {
+		"Milotic-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8664,7 +8665,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Enigma Berry"
 		},
-		"Milotic 544": {
+		"Milotic-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8679,7 +8680,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Leftovers"
 		},
-		"Milotic 719": {
+		"Milotic-3": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -8694,7 +8695,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Wide Lens"
 		},
-		"Milotic 894": {
+		"Milotic-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8711,7 +8712,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Miltank": {
-		"Miltank 275": {
+		"Miltank-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8725,7 +8726,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Miltank 450": {
+		"Miltank-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8740,7 +8741,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Razor Fang"
 		},
-		"Miltank 625": {
+		"Miltank-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8754,7 +8755,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Miltank 800": {
+		"Miltank-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8771,7 +8772,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Minccino": {
-		"Minccino 18": {
+		"Minccino-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8786,7 +8787,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Pecha Berry"
 		},
-		"Minccino 84": {
+		"Minccino-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8803,7 +8804,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Mismagius": {
-		"Mismagius 289": {
+		"Mismagius-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8818,7 +8819,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Colbur Berry"
 		},
-		"Mismagius 464": {
+		"Mismagius-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8833,7 +8834,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Kasib Berry"
 		},
-		"Mismagius 639": {
+		"Mismagius-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8848,7 +8849,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Sitrus Berry"
 		},
-		"Mismagius 814": {
+		"Mismagius-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8864,7 +8865,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Moltres": {
-		"Moltres 911": {
+		"Moltres-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8879,7 +8880,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "White Herb"
 		},
-		"Moltres 931": {
+		"Moltres-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -8894,7 +8895,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Power Herb"
 		},
-		"Moltres 951": {
+		"Moltres-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8908,7 +8909,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Moltres 971": {
+		"Moltres-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8925,7 +8926,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Mr. Mime": {
-		"Mr. Mime 230": {
+		"Mr.-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -8941,7 +8942,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Choice Scarf"
 		},
-		"Mr. Mime 405": {
+		"Mr.-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -8957,7 +8958,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Jaboca Berry"
 		},
-		"Mr. Mime 580": {
+		"Mr.-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -8971,7 +8972,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Mr. Mime 755": {
+		"Mr.-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -8987,7 +8988,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Muk": {
-		"Muk 298": {
+		"Muk-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9002,7 +9003,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Black Sludge"
 		},
-		"Muk 473": {
+		"Muk-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -9018,7 +9019,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Toxic Plate"
 		},
-		"Muk 648": {
+		"Muk-3": {
 			"level": 50,
 			"evs": {
 				"hp": 508
@@ -9032,7 +9033,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Zoom Lens"
 		},
-		"Muk 823": {
+		"Muk-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9048,7 +9049,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Munna": {
-		"Munna 13": {
+		"Munna-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9062,7 +9063,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Munna 79": {
+		"Munna-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9079,7 +9080,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Musharna": {
-		"Musharna 270": {
+		"Musharna-1": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -9095,7 +9096,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Zoom Lens"
 		},
-		"Musharna 445": {
+		"Musharna-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -9109,7 +9110,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Bold"
 		},
-		"Musharna 620": {
+		"Musharna-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -9123,7 +9124,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Musharna 795": {
+		"Musharna-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -9140,7 +9141,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Nidoking": {
-		"Nidoking 283": {
+		"Nidoking-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9155,7 +9156,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "King's Rock"
 		},
-		"Nidoking 458": {
+		"Nidoking-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9170,7 +9171,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Black Sludge"
 		},
-		"Nidoking 633": {
+		"Nidoking-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9185,7 +9186,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Black Sludge"
 		},
-		"Nidoking 808": {
+		"Nidoking-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9202,7 +9203,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Nidoqueen": {
-		"Nidoqueen 282": {
+		"Nidoqueen-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -9218,7 +9219,7 @@ var SETDEX_BW = {
 			"nature": "Relaxed",
 			"item": "Payapa Berry"
 		},
-		"Nidoqueen 457": {
+		"Nidoqueen-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9232,7 +9233,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Mild"
 		},
-		"Nidoqueen 632": {
+		"Nidoqueen-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9247,7 +9248,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Black Sludge"
 		},
-		"Nidoqueen 807": {
+		"Nidoqueen-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9264,7 +9265,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ninetales": {
-		"Ninetales 313": {
+		"Ninetales-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9279,7 +9280,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Passho Berry"
 		},
-		"Ninetales 488": {
+		"Ninetales-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9294,7 +9295,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Fire Gem"
 		},
-		"Ninetales 663": {
+		"Ninetales-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9309,7 +9310,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Wide Lens"
 		},
-		"Ninetales 838": {
+		"Ninetales-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9326,7 +9327,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Oshawott": {
-		"Oshawott 34": {
+		"Oshawott-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9341,7 +9342,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Wacan Berry"
 		},
-		"Oshawott 100": {
+		"Oshawott-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9358,7 +9359,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Palpitoad": {
-		"Palpitoad 62": {
+		"Palpitoad-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9373,7 +9374,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Rindo Berry"
 		},
-		"Palpitoad 128": {
+		"Palpitoad-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9390,7 +9391,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Panpour": {
-		"Panpour 23": {
+		"Panpour-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9405,7 +9406,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Cheri Berry"
 		},
-		"Panpour 89": {
+		"Panpour-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9421,7 +9422,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Pansage": {
-		"Pansage 21": {
+		"Pansage-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9436,7 +9437,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sitrus Berry"
 		},
-		"Pansage 87": {
+		"Pansage-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9453,7 +9454,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Pansear": {
-		"Pansear 22": {
+		"Pansear-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9468,7 +9469,7 @@ var SETDEX_BW = {
 			"nature": "Bashful",
 			"item": "Passho Berry"
 		},
-		"Pansear 88": {
+		"Pansear-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9485,7 +9486,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Patrat": {
-		"Patrat 1": {
+		"Patrat-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9500,7 +9501,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Cheri Berry"
 		},
-		"Patrat 67": {
+		"Patrat-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9517,7 +9518,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Pawniard": {
-		"Pawniard 49": {
+		"Pawniard-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9532,7 +9533,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Chople Berry"
 		},
-		"Pawniard 115": {
+		"Pawniard-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9549,7 +9550,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Petilil": {
-		"Petilil 8": {
+		"Petilil-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9564,7 +9565,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Persim Berry"
 		},
-		"Petilil 74": {
+		"Petilil-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9581,7 +9582,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Pidove": {
-		"Pidove 3": {
+		"Pidove-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9596,7 +9597,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Wacan Berry"
 		},
-		"Pidove 69": {
+		"Pidove-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9612,7 +9613,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Pignite": {
-		"Pignite 138": {
+		"Pignite-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9627,7 +9628,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "White Herb"
 		},
-		"Pignite 176": {
+		"Pignite-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9643,7 +9644,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Pinsir": {
-		"Pinsir 302": {
+		"Pinsir-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9658,7 +9659,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Persim Berry"
 		},
-		"Pinsir 477": {
+		"Pinsir-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9673,7 +9674,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Insect Plate"
 		},
-		"Pinsir 652": {
+		"Pinsir-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9687,7 +9688,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Pinsir 827": {
+		"Pinsir-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9704,7 +9705,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Politoed": {
-		"Politoed 301": {
+		"Politoed-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -9718,7 +9719,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Politoed 476": {
+		"Politoed-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9733,7 +9734,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Water Gem"
 		},
-		"Politoed 651": {
+		"Politoed-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9748,7 +9749,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chesto Berry"
 		},
-		"Politoed 826": {
+		"Politoed-4": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -9765,7 +9766,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Poliwrath": {
-		"Poliwrath 296": {
+		"Poliwrath-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -9781,7 +9782,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Sitrus Berry"
 		},
-		"Poliwrath 471": {
+		"Poliwrath-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9795,7 +9796,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naive"
 		},
-		"Poliwrath 646": {
+		"Poliwrath-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9810,7 +9811,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Leftovers"
 		},
-		"Poliwrath 821": {
+		"Poliwrath-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9827,7 +9828,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Porygon2": {
-		"Porygon2 330": {
+		"Porygon2-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9842,7 +9843,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Porygon2 505": {
+		"Porygon2-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -9858,7 +9859,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Petaya Berry"
 		},
-		"Porygon2 680": {
+		"Porygon2-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9873,7 +9874,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Choice Specs"
 		},
-		"Porygon2 855": {
+		"Porygon2-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9889,7 +9890,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Probopass": {
-		"Probopass 349": {
+		"Probopass-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9904,7 +9905,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Cheri Berry"
 		},
-		"Probopass 524": {
+		"Probopass-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9919,7 +9920,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Sitrus Berry"
 		},
-		"Probopass 699": {
+		"Probopass-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9933,7 +9934,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Probopass 874": {
+		"Probopass-4": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -9950,7 +9951,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Purrloin": {
-		"Purrloin 10": {
+		"Purrloin-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -9965,7 +9966,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Docile"
 		},
-		"Purrloin 76": {
+		"Purrloin-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -9982,7 +9983,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Quagsire": {
-		"Quagsire 227": {
+		"Quagsire-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -9997,7 +9998,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Rindo Berry"
 		},
-		"Quagsire 402": {
+		"Quagsire-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -10013,7 +10014,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Iron Ball"
 		},
-		"Quagsire 577": {
+		"Quagsire-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10028,7 +10029,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Rindo Berry"
 		},
-		"Quagsire 752": {
+		"Quagsire-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10045,7 +10046,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Raichu": {
-		"Raichu 239": {
+		"Raichu-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10060,7 +10061,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Focus Sash"
 		},
-		"Raichu 414": {
+		"Raichu-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10075,7 +10076,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Magnet"
 		},
-		"Raichu 589": {
+		"Raichu-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10090,7 +10091,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Raichu 764": {
+		"Raichu-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10106,7 +10107,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Raikou": {
-		"Raikou 912": {
+		"Raikou-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10121,7 +10122,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Shuca Berry"
 		},
-		"Raikou 932": {
+		"Raikou-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -10136,7 +10137,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Leftovers"
 		},
-		"Raikou 952": {
+		"Raikou-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10151,7 +10152,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Air Balloon"
 		},
-		"Raikou 972": {
+		"Raikou-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10168,7 +10169,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Rampardos": {
-		"Rampardos 286": {
+		"Rampardos-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -10184,7 +10185,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Passho Berry"
 		},
-		"Rampardos 461": {
+		"Rampardos-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10199,7 +10200,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Sitrus Berry"
 		},
-		"Rampardos 636": {
+		"Rampardos-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10214,7 +10215,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Scarf"
 		},
-		"Rampardos 811": {
+		"Rampardos-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10231,7 +10232,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Rapidash": {
-		"Rapidash 297": {
+		"Rapidash-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10246,7 +10247,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Passho Berry"
 		},
-		"Rapidash 472": {
+		"Rapidash-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10260,7 +10261,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hasty"
 		},
-		"Rapidash 647": {
+		"Rapidash-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10275,7 +10276,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Rapidash 822": {
+		"Rapidash-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10292,7 +10293,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Regice": {
-		"Regice 916": {
+		"Regice-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10307,7 +10308,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Regice 936": {
+		"Regice-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -10323,7 +10324,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Chesto Berry"
 		},
-		"Regice 956": {
+		"Regice-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10338,7 +10339,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Regice 976": {
+		"Regice-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10355,7 +10356,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Regigigas": {
-		"Regigigas 928": {
+		"Regigigas-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10369,7 +10370,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Regigigas 948": {
+		"Regigigas-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10384,7 +10385,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Zoom Lens"
 		},
-		"Regigigas 968": {
+		"Regigigas-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10399,7 +10400,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Leftovers"
 		},
-		"Regigigas 988": {
+		"Regigigas-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10416,7 +10417,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Regirock": {
-		"Regirock 915": {
+		"Regirock-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10431,7 +10432,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Leftovers"
 		},
-		"Regirock 935": {
+		"Regirock-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10446,7 +10447,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Custap Berry"
 		},
-		"Regirock 955": {
+		"Regirock-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10461,7 +10462,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Rock Gem"
 		},
-		"Regirock 975": {
+		"Regirock-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10478,7 +10479,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Registeel": {
-		"Registeel 917": {
+		"Registeel-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10493,7 +10494,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chesto Berry"
 		},
-		"Registeel 937": {
+		"Registeel-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10508,7 +10509,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "King's Rock"
 		},
-		"Registeel 957": {
+		"Registeel-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10523,7 +10524,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Registeel 977": {
+		"Registeel-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10540,7 +10541,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Reuniclus": {
-		"Reuniclus 279": {
+		"Reuniclus-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -10556,7 +10557,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Sitrus Berry"
 		},
-		"Reuniclus 454": {
+		"Reuniclus-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -10572,7 +10573,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "King's Rock"
 		},
-		"Reuniclus 629": {
+		"Reuniclus-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -10587,7 +10588,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Colbur Berry"
 		},
-		"Reuniclus 804": {
+		"Reuniclus-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -10604,7 +10605,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Rhyperior": {
-		"Rhyperior 360": {
+		"Rhyperior-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -10620,7 +10621,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Zoom Lens"
 		},
-		"Rhyperior 535": {
+		"Rhyperior-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10635,7 +10636,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Hard Stone"
 		},
-		"Rhyperior 710": {
+		"Rhyperior-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10650,7 +10651,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Focus Sash"
 		},
-		"Rhyperior 885": {
+		"Rhyperior-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10667,7 +10668,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Roggenrola": {
-		"Roggenrola 6": {
+		"Roggenrola-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10682,7 +10683,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Shuca Berry"
 		},
-		"Roggenrola 72": {
+		"Roggenrola-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10699,7 +10700,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Roserade": {
-		"Roserade 316": {
+		"Roserade-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10714,7 +10715,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Big Root"
 		},
-		"Roserade 491": {
+		"Roserade-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10729,7 +10730,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Occa Berry"
 		},
-		"Roserade 666": {
+		"Roserade-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -10744,7 +10745,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Roserade 841": {
+		"Roserade-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10761,7 +10762,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Rufflet": {
-		"Rufflet 51": {
+		"Rufflet-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10776,7 +10777,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sharp Beak"
 		},
-		"Rufflet 117": {
+		"Rufflet-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10793,7 +10794,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Salamence": {
-		"Salamence 379": {
+		"Salamence-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -10809,7 +10810,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Yache Berry"
 		},
-		"Salamence 554": {
+		"Salamence-2": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -10825,7 +10826,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Expert Belt"
 		},
-		"Salamence 729": {
+		"Salamence-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10840,7 +10841,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Yache Berry"
 		},
-		"Salamence 904": {
+		"Salamence-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10856,7 +10857,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Samurott": {
-		"Samurott 223": {
+		"Samurott-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -10871,7 +10872,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Splash Plate"
 		},
-		"Samurott 398": {
+		"Samurott-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10886,7 +10887,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Zoom Lens"
 		},
-		"Samurott 573": {
+		"Samurott-3": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -10902,7 +10903,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Custap Berry"
 		},
-		"Samurott 748": {
+		"Samurott-4": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -10920,7 +10921,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Sandile": {
-		"Sandile 14": {
+		"Sandile-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10935,7 +10936,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Persim Berry"
 		},
-		"Sandile 80": {
+		"Sandile-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10952,7 +10953,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Sawk": {
-		"Sawk 245": {
+		"Sawk-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10967,7 +10968,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Black Belt"
 		},
-		"Sawk 420": {
+		"Sawk-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10982,7 +10983,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Focus Sash"
 		},
-		"Sawk 596": {
+		"Sawk-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -10997,7 +10998,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Expert Belt"
 		},
-		"Sawk 771": {
+		"Sawk-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11014,7 +11015,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Sawsbuck": {
-		"Sawsbuck 161": {
+		"Sawsbuck-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11028,7 +11029,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Sawsbuck 199": {
+		"Sawsbuck-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11044,7 +11045,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Sceptile": {
-		"Sceptile 215": {
+		"Sceptile-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11059,7 +11060,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Sceptile 390": {
+		"Sceptile-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11073,7 +11074,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hasty"
 		},
-		"Sceptile 565": {
+		"Sceptile-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11088,7 +11089,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "White Herb"
 		},
-		"Sceptile 740": {
+		"Sceptile-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -11105,7 +11106,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Scizor": {
-		"Scizor 303": {
+		"Scizor-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11120,7 +11121,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Occa Berry"
 		},
-		"Scizor 478": {
+		"Scizor-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11135,7 +11136,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Insect Plate"
 		},
-		"Scizor 653": {
+		"Scizor-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11150,7 +11151,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Life Orb"
 		},
-		"Scizor 828": {
+		"Scizor-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11167,7 +11168,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Scolipede": {
-		"Scolipede 159": {
+		"Scolipede-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11181,7 +11182,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Scolipede 197": {
+		"Scolipede-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11198,7 +11199,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Scrafty": {
-		"Scrafty 271": {
+		"Scrafty-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11213,7 +11214,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Liechi Berry"
 		},
-		"Scrafty 446": {
+		"Scrafty-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11228,7 +11229,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Coba Berry"
 		},
-		"Scrafty 621": {
+		"Scrafty-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11243,7 +11244,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Muscle Band"
 		},
-		"Scrafty 796": {
+		"Scrafty-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11260,7 +11261,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Scraggy": {
-		"Scraggy 50": {
+		"Scraggy-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11275,7 +11276,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Sitrus Berry"
 		},
-		"Scraggy 116": {
+		"Scraggy-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11292,7 +11293,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Seismitoad": {
-		"Seismitoad 295": {
+		"Seismitoad-1": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -11308,7 +11309,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Chesto Berry"
 		},
-		"Seismitoad 470": {
+		"Seismitoad-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11323,7 +11324,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Iron Ball"
 		},
-		"Seismitoad 645": {
+		"Seismitoad-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11337,7 +11338,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Seismitoad 820": {
+		"Seismitoad-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11354,7 +11355,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Serperior": {
-		"Serperior 221": {
+		"Serperior-1": {
 			"level": 50,
 			"evs": {
 				"df": 168,
@@ -11369,7 +11370,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Serperior 396": {
+		"Serperior-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -11385,7 +11386,7 @@ var SETDEX_BW = {
 			"nature": "Sassy",
 			"item": "Sitrus Berry"
 		},
-		"Serperior 571": {
+		"Serperior-3": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -11400,7 +11401,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Calm"
 		},
-		"Serperior 746": {
+		"Serperior-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11417,7 +11418,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Servine": {
-		"Servine 136": {
+		"Servine-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11432,7 +11433,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Grip Claw"
 		},
-		"Servine 174": {
+		"Servine-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11449,7 +11450,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Sewaddle": {
-		"Sewaddle 35": {
+		"Sewaddle-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11463,7 +11464,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Impish"
 		},
-		"Sewaddle 101": {
+		"Sewaddle-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11480,7 +11481,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Shelmet": {
-		"Shelmet 31": {
+		"Shelmet-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11495,7 +11496,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Sitrus Berry"
 		},
-		"Shelmet 97": {
+		"Shelmet-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11512,7 +11513,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Shiftry": {
-		"Shiftry 252": {
+		"Shiftry-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -11528,7 +11529,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Iron Ball"
 		},
-		"Shiftry 427": {
+		"Shiftry-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11543,7 +11544,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Miracle Seed"
 		},
-		"Shiftry 602": {
+		"Shiftry-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -11557,7 +11558,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Hardy"
 		},
-		"Shiftry 777": {
+		"Shiftry-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11574,7 +11575,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Shuckle": {
-		"Shuckle 315": {
+		"Shuckle-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11589,7 +11590,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Binding Band"
 		},
-		"Shuckle 490": {
+		"Shuckle-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11603,7 +11604,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Bold"
 		},
-		"Shuckle 665": {
+		"Shuckle-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11617,7 +11618,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Relaxed"
 		},
-		"Shuckle 840": {
+		"Shuckle-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11634,7 +11635,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Sigilyph": {
-		"Sigilyph 169": {
+		"Sigilyph-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11649,7 +11650,7 @@ var SETDEX_BW = {
 			"nature": "Hardy",
 			"item": "Power Herb"
 		},
-		"Sigilyph 207": {
+		"Sigilyph-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11666,7 +11667,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Simipour": {
-		"Simipour 150": {
+		"Simipour-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11681,7 +11682,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Expert Belt"
 		},
-		"Simipour 188": {
+		"Simipour-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11698,7 +11699,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Simisage": {
-		"Simisage 148": {
+		"Simisage-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11713,7 +11714,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Sitrus Berry"
 		},
-		"Simisage 186": {
+		"Simisage-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11730,7 +11731,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Simisear": {
-		"Simisear 149": {
+		"Simisear-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -11745,7 +11746,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "White Herb"
 		},
-		"Simisear 187": {
+		"Simisear-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11761,7 +11762,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Skarmory": {
-		"Skarmory 234": {
+		"Skarmory-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11775,7 +11776,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naive"
 		},
-		"Skarmory 409": {
+		"Skarmory-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11789,7 +11790,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Naughty"
 		},
-		"Skarmory 584": {
+		"Skarmory-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11804,7 +11805,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Scarf"
 		},
-		"Skarmory 759": {
+		"Skarmory-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11820,7 +11821,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Skuntank": {
-		"Skuntank 244": {
+		"Skuntank-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11835,7 +11836,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Shuca Berry"
 		},
-		"Skuntank 419": {
+		"Skuntank-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11850,7 +11851,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Poison Barb"
 		},
-		"Skuntank 594": {
+		"Skuntank-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11865,7 +11866,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Life Orb"
 		},
-		"Skuntank 769": {
+		"Skuntank-4": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -11883,7 +11884,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Slaking": {
-		"Slaking 383": {
+		"Slaking-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11898,7 +11899,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Chople Berry"
 		},
-		"Slaking 558": {
+		"Slaking-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11913,7 +11914,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sitrus Berry"
 		},
-		"Slaking 733": {
+		"Slaking-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11928,7 +11929,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Choice Band"
 		},
-		"Slaking 908": {
+		"Slaking-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -11945,7 +11946,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Slowbro": {
-		"Slowbro 263": {
+		"Slowbro-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11960,7 +11961,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Sitrus Berry"
 		},
-		"Slowbro 438": {
+		"Slowbro-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -11974,7 +11975,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Slowbro 613": {
+		"Slowbro-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -11989,7 +11990,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Slowbro 788": {
+		"Slowbro-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12006,7 +12007,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Slowking": {
-		"Slowking 274": {
+		"Slowking-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -12021,7 +12022,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Sitrus Berry"
 		},
-		"Slowking 449": {
+		"Slowking-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12036,7 +12037,7 @@ var SETDEX_BW = {
 			"nature": "Gentle",
 			"item": "King's Rock"
 		},
-		"Slowking 624": {
+		"Slowking-3": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -12051,7 +12052,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Choice Specs"
 		},
-		"Slowking 799": {
+		"Slowking-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12067,7 +12068,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Snivy": {
-		"Snivy 32": {
+		"Snivy-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12082,7 +12083,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Binding Band"
 		},
-		"Snivy 98": {
+		"Snivy-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12099,7 +12100,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Snorlax": {
-		"Snorlax 366": {
+		"Snorlax-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12114,7 +12115,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Snorlax 541": {
+		"Snorlax-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12129,7 +12130,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Sitrus Berry"
 		},
-		"Snorlax 716": {
+		"Snorlax-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12144,7 +12145,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Life Orb"
 		},
-		"Snorlax 891": {
+		"Snorlax-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -12161,7 +12162,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Solosis": {
-		"Solosis 12": {
+		"Solosis-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -12175,7 +12176,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Solosis 78": {
+		"Solosis-2": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -12192,7 +12193,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Spiritomb": {
-		"Spiritomb 267": {
+		"Spiritomb-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12207,7 +12208,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Sitrus Berry"
 		},
-		"Spiritomb 442": {
+		"Spiritomb-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12221,7 +12222,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Brave"
 		},
-		"Spiritomb 617": {
+		"Spiritomb-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12236,7 +12237,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Leftovers"
 		},
-		"Spiritomb 792": {
+		"Spiritomb-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12253,7 +12254,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Staraptor": {
-		"Staraptor 242": {
+		"Staraptor-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12268,7 +12269,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Focus Sash"
 		},
-		"Staraptor 417": {
+		"Staraptor-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12283,7 +12284,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Choice Scarf"
 		},
-		"Staraptor 592": {
+		"Staraptor-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12298,7 +12299,7 @@ var SETDEX_BW = {
 			"nature": "Mild",
 			"item": "Choice Band"
 		},
-		"Staraptor 767": {
+		"Staraptor-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12315,7 +12316,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Starmie": {
-		"Starmie 336": {
+		"Starmie-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12330,7 +12331,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Sitrus Berry"
 		},
-		"Starmie 511": {
+		"Starmie-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12345,7 +12346,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Mystic Water"
 		},
-		"Starmie 686": {
+		"Starmie-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12360,7 +12361,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Focus Sash"
 		},
-		"Starmie 861": {
+		"Starmie-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12377,7 +12378,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Steelix": {
-		"Steelix 322": {
+		"Steelix-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12392,7 +12393,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Chesto Berry"
 		},
-		"Steelix 497": {
+		"Steelix-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12407,7 +12408,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Enigma Berry"
 		},
-		"Steelix 672": {
+		"Steelix-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12421,7 +12422,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Brave"
 		},
-		"Steelix 847": {
+		"Steelix-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12438,7 +12439,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Stoutland": {
-		"Stoutland 167": {
+		"Stoutland-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12452,7 +12453,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Stoutland 205": {
+		"Stoutland-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12468,7 +12469,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Stunfisk": {
-		"Stunfisk 155": {
+		"Stunfisk-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -12484,7 +12485,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Focus Sash"
 		},
-		"Stunfisk 193": {
+		"Stunfisk-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12501,7 +12502,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Suicune": {
-		"Suicune 914": {
+		"Suicune-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12516,7 +12517,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Suicune 934": {
+		"Suicune-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12531,7 +12532,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Suicune 954": {
+		"Suicune-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12546,7 +12547,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Leftovers"
 		},
-		"Suicune 974": {
+		"Suicune-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12562,7 +12563,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Swadloon": {
-		"Swadloon 61": {
+		"Swadloon-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12577,7 +12578,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Occa Berry"
 		},
-		"Swadloon 127": {
+		"Swadloon-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12594,7 +12595,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Swampert": {
-		"Swampert 217": {
+		"Swampert-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -12609,7 +12610,7 @@ var SETDEX_BW = {
 			"nature": "Sassy",
 			"item": "Jaboca Berry"
 		},
-		"Swampert 392": {
+		"Swampert-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12624,7 +12625,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chesto Berry"
 		},
-		"Swampert 567": {
+		"Swampert-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12639,7 +12640,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Sitrus Berry"
 		},
-		"Swampert 742": {
+		"Swampert-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12656,7 +12657,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Swanna": {
-		"Swanna 157": {
+		"Swanna-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12671,7 +12672,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Leftovers"
 		},
-		"Swanna 195": {
+		"Swanna-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12688,7 +12689,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Swoobat": {
-		"Swoobat 141": {
+		"Swoobat-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12702,7 +12703,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Swoobat 179": {
+		"Swoobat-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12719,7 +12720,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tangrowth": {
-		"Tangrowth 361": {
+		"Tangrowth-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -12735,7 +12736,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Big Root"
 		},
-		"Tangrowth 536": {
+		"Tangrowth-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12750,7 +12751,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Yache Berry"
 		},
-		"Tangrowth 711": {
+		"Tangrowth-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -12764,7 +12765,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Tangrowth 886": {
+		"Tangrowth-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12780,7 +12781,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tauros": {
-		"Tauros 266": {
+		"Tauros-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12795,7 +12796,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Liechi Berry"
 		},
-		"Tauros 441": {
+		"Tauros-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12810,7 +12811,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Expert Belt"
 		},
-		"Tauros 616": {
+		"Tauros-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12825,7 +12826,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Life Orb"
 		},
-		"Tauros 791": {
+		"Tauros-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12842,7 +12843,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tentacruel": {
-		"Tentacruel 328": {
+		"Tentacruel-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -12857,7 +12858,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Black Sludge"
 		},
-		"Tentacruel 503": {
+		"Tentacruel-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12872,7 +12873,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Mystic Water"
 		},
-		"Tentacruel 678": {
+		"Tentacruel-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12887,7 +12888,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Focus Sash"
 		},
-		"Tentacruel 853": {
+		"Tentacruel-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12904,7 +12905,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tepig": {
-		"Tepig 33": {
+		"Tepig-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12919,7 +12920,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Shuca Berry"
 		},
-		"Tepig 99": {
+		"Tepig-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -12936,7 +12937,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Terrakion": {
-		"Terrakion 919": {
+		"Terrakion-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12951,7 +12952,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Expert Belt"
 		},
-		"Terrakion 939": {
+		"Terrakion-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12966,7 +12967,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Choice Scarf"
 		},
-		"Terrakion 959": {
+		"Terrakion-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12981,7 +12982,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sitrus Berry"
 		},
-		"Terrakion 979": {
+		"Terrakion-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -12998,7 +12999,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Throh": {
-		"Throh 246": {
+		"Throh-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13013,7 +13014,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Payapa Berry"
 		},
-		"Throh 421": {
+		"Throh-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13028,7 +13029,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Expert Belt"
 		},
-		"Throh 595": {
+		"Throh-3": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -13044,7 +13045,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Expert Belt"
 		},
-		"Throh 770": {
+		"Throh-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13061,7 +13062,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Thundurus": {
-		"Thundurus 922": {
+		"Thundurus-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13076,7 +13077,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Thundurus 942": {
+		"Thundurus-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13091,7 +13092,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Choice Band"
 		},
-		"Thundurus 962": {
+		"Thundurus-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13106,7 +13107,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sitrus Berry"
 		},
-		"Thundurus 982": {
+		"Thundurus-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13123,7 +13124,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Timburr": {
-		"Timburr 26": {
+		"Timburr-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13138,7 +13139,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Payapa Berry"
 		},
-		"Timburr 92": {
+		"Timburr-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13154,7 +13155,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tirtouga": {
-		"Tirtouga 53": {
+		"Tirtouga-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13168,7 +13169,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Impish"
 		},
-		"Tirtouga 119": {
+		"Tirtouga-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13185,7 +13186,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Togekiss": {
-		"Togekiss 373": {
+		"Togekiss-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13200,7 +13201,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Sitrus Berry"
 		},
-		"Togekiss 548": {
+		"Togekiss-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13215,7 +13216,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Liechi Berry"
 		},
-		"Togekiss 723": {
+		"Togekiss-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13230,7 +13231,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Wide Lens"
 		},
-		"Togekiss 898": {
+		"Togekiss-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13247,7 +13248,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tornadus": {
-		"Tornadus 921": {
+		"Tornadus-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13262,7 +13263,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Life Orb"
 		},
-		"Tornadus 941": {
+		"Tornadus-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13277,7 +13278,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Tornadus 961": {
+		"Tornadus-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13292,7 +13293,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "Chesto Berry"
 		},
-		"Tornadus 981": {
+		"Tornadus-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13308,7 +13309,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Torterra": {
-		"Torterra 218": {
+		"Torterra-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13323,7 +13324,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Binding Band"
 		},
-		"Torterra 393": {
+		"Torterra-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13338,7 +13339,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Choice Scarf"
 		},
-		"Torterra 568": {
+		"Torterra-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13353,7 +13354,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Custap Berry"
 		},
-		"Torterra 743": {
+		"Torterra-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13370,7 +13371,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Toxicroak": {
-		"Toxicroak 277": {
+		"Toxicroak-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13385,7 +13386,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Dark Gem"
 		},
-		"Toxicroak 452": {
+		"Toxicroak-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13400,7 +13401,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Petaya Berry"
 		},
-		"Toxicroak 627": {
+		"Toxicroak-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13415,7 +13416,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Focus Sash"
 		},
-		"Toxicroak 802": {
+		"Toxicroak-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13432,7 +13433,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tranquill": {
-		"Tranquill 54": {
+		"Tranquill-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13447,7 +13448,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Cheri Berry"
 		},
-		"Tranquill 120": {
+		"Tranquill-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13464,7 +13465,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Trubbish": {
-		"Trubbish 44": {
+		"Trubbish-1": {
 			"level": 50,
 			"moves": [
 				"Acid Spray",
@@ -13475,7 +13476,7 @@ var SETDEX_BW = {
 			"nature": "Hardy",
 			"item": "Payapa Berry"
 		},
-		"Trubbish 110": {
+		"Trubbish-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -13492,7 +13493,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tympole": {
-		"Tympole 15": {
+		"Tympole-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13507,7 +13508,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Cheri Berry"
 		},
-		"Tympole 81": {
+		"Tympole-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13523,7 +13524,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tynamo": {
-		"Tynamo 42": {
+		"Tynamo-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13538,7 +13539,7 @@ var SETDEX_BW = {
 			"nature": "Hardy",
 			"item": "Razor Fang"
 		},
-		"Tynamo 108": {
+		"Tynamo-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13554,7 +13555,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Typhlosion": {
-		"Typhlosion 213": {
+		"Typhlosion-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13569,7 +13570,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Passho Berry"
 		},
-		"Typhlosion 388": {
+		"Typhlosion-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13584,7 +13585,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Wide Lens"
 		},
-		"Typhlosion 563": {
+		"Typhlosion-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13599,7 +13600,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Choice Scarf"
 		},
-		"Typhlosion 738": {
+		"Typhlosion-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -13616,7 +13617,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Tyranitar": {
-		"Tyranitar 378": {
+		"Tyranitar-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13631,7 +13632,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Iron Ball"
 		},
-		"Tyranitar 553": {
+		"Tyranitar-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13646,7 +13647,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "King's Rock"
 		},
-		"Tyranitar 728": {
+		"Tyranitar-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13661,7 +13662,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Chople Berry"
 		},
-		"Tyranitar 903": {
+		"Tyranitar-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13678,7 +13679,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Umbreon": {
-		"Umbreon 344": {
+		"Umbreon-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13693,7 +13694,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Leftovers"
 		},
-		"Umbreon 519": {
+		"Umbreon-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13708,7 +13709,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chople Berry"
 		},
-		"Umbreon 694": {
+		"Umbreon-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13723,7 +13724,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Sitrus Berry"
 		},
-		"Umbreon 869": {
+		"Umbreon-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13740,7 +13741,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Unfezant": {
-		"Unfezant 247": {
+		"Unfezant-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -13756,7 +13757,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Enigma Berry"
 		},
-		"Unfezant 422": {
+		"Unfezant-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13771,7 +13772,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Power Herb"
 		},
-		"Unfezant 597": {
+		"Unfezant-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13786,7 +13787,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Power Herb"
 		},
-		"Unfezant 772": {
+		"Unfezant-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13802,7 +13803,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Ursaring": {
-		"Ursaring 305": {
+		"Ursaring-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -13818,7 +13819,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Chesto Berry"
 		},
-		"Ursaring 480": {
+		"Ursaring-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -13833,7 +13834,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Toxic Orb"
 		},
-		"Ursaring 655": {
+		"Ursaring-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13848,7 +13849,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Toxic Orb"
 		},
-		"Ursaring 830": {
+		"Ursaring-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13864,7 +13865,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vanillish": {
-		"Vanillish 65": {
+		"Vanillish-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -13879,7 +13880,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Pecha Berry"
 		},
-		"Vanillish 131": {
+		"Vanillish-2": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -13895,7 +13896,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vanillite": {
-		"Vanillite 28": {
+		"Vanillite-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -13910,7 +13911,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Petaya Berry"
 		},
-		"Vanillite 94": {
+		"Vanillite-2": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -13926,7 +13927,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vanilluxe": {
-		"Vanilluxe 363": {
+		"Vanilluxe-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -13941,7 +13942,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Calm"
 		},
-		"Vanilluxe 538": {
+		"Vanilluxe-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13956,7 +13957,7 @@ var SETDEX_BW = {
 			"nature": "Lonely",
 			"item": "Occa Berry"
 		},
-		"Vanilluxe 713": {
+		"Vanilluxe-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13971,7 +13972,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Vanilluxe 888": {
+		"Vanilluxe-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -13988,7 +13989,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vaporeon": {
-		"Vaporeon 340": {
+		"Vaporeon-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14002,7 +14003,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Quiet"
 		},
-		"Vaporeon 515": {
+		"Vaporeon-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14017,7 +14018,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Vaporeon 690": {
+		"Vaporeon-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14032,7 +14033,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Vaporeon 865": {
+		"Vaporeon-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14049,7 +14050,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Venipede": {
-		"Venipede 2": {
+		"Venipede-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14064,7 +14065,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Chesto Berry"
 		},
-		"Venipede 68": {
+		"Venipede-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14081,7 +14082,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Venusaur": {
-		"Venusaur 209": {
+		"Venusaur-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14096,7 +14097,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Big Root"
 		},
-		"Venusaur 384": {
+		"Venusaur-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -14112,7 +14113,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Miracle Seed"
 		},
-		"Venusaur 559": {
+		"Venusaur-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14127,7 +14128,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Salac Berry"
 		},
-		"Venusaur 734": {
+		"Venusaur-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14144,7 +14145,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vespiquen": {
-		"Vespiquen 238": {
+		"Vespiquen-1": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -14159,7 +14160,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Sassy"
 		},
-		"Vespiquen 413": {
+		"Vespiquen-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14174,7 +14175,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Insect Plate"
 		},
-		"Vespiquen 588": {
+		"Vespiquen-3": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -14190,7 +14191,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Sitrus Berry"
 		},
-		"Vespiquen 763": {
+		"Vespiquen-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14207,7 +14208,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Victreebel": {
-		"Victreebel 249": {
+		"Victreebel-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -14222,7 +14223,7 @@ var SETDEX_BW = {
 			"nature": "Quiet",
 			"item": "Payapa Berry"
 		},
-		"Victreebel 424": {
+		"Victreebel-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14237,7 +14238,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Grass Gem"
 		},
-		"Victreebel 599": {
+		"Victreebel-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14252,7 +14253,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Focus Sash"
 		},
-		"Victreebel 774": {
+		"Victreebel-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14269,7 +14270,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vileplume": {
-		"Vileplume 248": {
+		"Vileplume-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14284,7 +14285,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Persim Berry"
 		},
-		"Vileplume 423": {
+		"Vileplume-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14299,7 +14300,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Power Herb"
 		},
-		"Vileplume 598": {
+		"Vileplume-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14314,7 +14315,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Big Root"
 		},
-		"Vileplume 773": {
+		"Vileplume-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14330,7 +14331,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Virizion": {
-		"Virizion 920": {
+		"Virizion-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14345,7 +14346,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Salac Berry"
 		},
-		"Virizion 940": {
+		"Virizion-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14360,7 +14361,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Sitrus Berry"
 		},
-		"Virizion 960": {
+		"Virizion-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14375,7 +14376,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Coba Berry"
 		},
-		"Virizion 980": {
+		"Virizion-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14392,7 +14393,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Volcarona": {
-		"Volcarona 374": {
+		"Volcarona-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14407,7 +14408,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Power Herb"
 		},
-		"Volcarona 549": {
+		"Volcarona-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14421,7 +14422,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Volcarona 724": {
+		"Volcarona-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14436,7 +14437,7 @@ var SETDEX_BW = {
 			"nature": "Bold",
 			"item": "White Herb"
 		},
-		"Volcarona 899": {
+		"Volcarona-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14453,7 +14454,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Vullaby": {
-		"Vullaby 59": {
+		"Vullaby-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14468,7 +14469,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Cheri Berry"
 		},
-		"Vullaby 125": {
+		"Vullaby-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14485,7 +14486,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Wailord": {
-		"Wailord 308": {
+		"Wailord-1": {
 			"level": 50,
 			"evs": {
 				"at": 168,
@@ -14501,7 +14502,7 @@ var SETDEX_BW = {
 			"nature": "Brave",
 			"item": "Chesto Berry"
 		},
-		"Wailord 483": {
+		"Wailord-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14515,7 +14516,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Timid"
 		},
-		"Wailord 658": {
+		"Wailord-3": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14530,7 +14531,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Leftovers"
 		},
-		"Wailord 833": {
+		"Wailord-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14547,7 +14548,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Walrein": {
-		"Walrein 355": {
+		"Walrein-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14562,7 +14563,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Chesto Berry"
 		},
-		"Walrein 530": {
+		"Walrein-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14577,7 +14578,7 @@ var SETDEX_BW = {
 			"nature": "Calm",
 			"item": "Metronome"
 		},
-		"Walrein 705": {
+		"Walrein-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14592,7 +14593,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Leftovers"
 		},
-		"Walrein 880": {
+		"Walrein-4": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14608,7 +14609,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Watchog": {
-		"Watchog 139": {
+		"Watchog-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14623,7 +14624,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Chesto Berry"
 		},
-		"Watchog 177": {
+		"Watchog-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14640,7 +14641,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Weavile": {
-		"Weavile 323": {
+		"Weavile-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14655,7 +14656,7 @@ var SETDEX_BW = {
 			"nature": "Hasty",
 			"item": "Razor Fang"
 		},
-		"Weavile 498": {
+		"Weavile-2": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14669,7 +14670,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Jolly"
 		},
-		"Weavile 673": {
+		"Weavile-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14684,7 +14685,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Focus Sash"
 		},
-		"Weavile 848": {
+		"Weavile-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14701,7 +14702,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Weezing": {
-		"Weezing 264": {
+		"Weezing-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14716,7 +14717,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Payapa Berry"
 		},
-		"Weezing 439": {
+		"Weezing-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14731,7 +14732,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Poison Gem"
 		},
-		"Weezing 614": {
+		"Weezing-3": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14746,7 +14747,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Black Sludge"
 		},
-		"Weezing 789": {
+		"Weezing-4": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14763,7 +14764,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Whimsicott": {
-		"Whimsicott 162": {
+		"Whimsicott-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14778,7 +14779,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Coba Berry"
 		},
-		"Whimsicott 200": {
+		"Whimsicott-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14795,7 +14796,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Whirlipede": {
-		"Whirlipede 55": {
+		"Whirlipede-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14810,7 +14811,7 @@ var SETDEX_BW = {
 			"nature": "Impish",
 			"item": "Coba Berry"
 		},
-		"Whirlipede 121": {
+		"Whirlipede-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14827,7 +14828,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Whiscash": {
-		"Whiscash 236": {
+		"Whiscash-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -14842,7 +14843,7 @@ var SETDEX_BW = {
 			"nature": "Careful",
 			"item": "Chesto Berry"
 		},
-		"Whiscash 411": {
+		"Whiscash-2": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -14858,7 +14859,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Soft Sand"
 		},
-		"Whiscash 586": {
+		"Whiscash-3": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -14873,7 +14874,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Expert Belt"
 		},
-		"Whiscash 761": {
+		"Whiscash-4": {
 			"level": 50,
 			"evs": {
 				"hp": 168,
@@ -14891,7 +14892,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Woobat": {
-		"Woobat 36": {
+		"Woobat-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14906,7 +14907,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Cheri Berry"
 		},
-		"Woobat 102": {
+		"Woobat-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14923,7 +14924,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Yamask": {
-		"Yamask 24": {
+		"Yamask-1": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14938,7 +14939,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Ganlon Berry"
 		},
-		"Yamask 90": {
+		"Yamask-2": {
 			"level": 50,
 			"evs": {
 				"df": 252,
@@ -14955,7 +14956,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Yanmega": {
-		"Yanmega 332": {
+		"Yanmega-1": {
 			"level": 50,
 			"evs": {
 				"sa": 252,
@@ -14970,7 +14971,7 @@ var SETDEX_BW = {
 			"nature": "Rash",
 			"item": "Cheri Berry"
 		},
-		"Yanmega 507": {
+		"Yanmega-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -14985,7 +14986,7 @@ var SETDEX_BW = {
 			"nature": "Modest",
 			"item": "Sitrus Berry"
 		},
-		"Yanmega 682": {
+		"Yanmega-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -14999,7 +15000,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Modest"
 		},
-		"Yanmega 857": {
+		"Yanmega-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15016,7 +15017,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Zapdos": {
-		"Zapdos 910": {
+		"Zapdos-1": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15031,7 +15032,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Magnet"
 		},
-		"Zapdos 930": {
+		"Zapdos-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -15045,7 +15046,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Bold"
 		},
-		"Zapdos 950": {
+		"Zapdos-3": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15060,7 +15061,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Petaya Berry"
 		},
-		"Zapdos 970": {
+		"Zapdos-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15076,7 +15077,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Zebstrika": {
-		"Zebstrika 293": {
+		"Zebstrika-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -15091,7 +15092,7 @@ var SETDEX_BW = {
 			"nature": "Naughty",
 			"item": "Electric Gem"
 		},
-		"Zebstrika 468": {
+		"Zebstrika-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15106,7 +15107,7 @@ var SETDEX_BW = {
 			"nature": "Timid",
 			"item": "Magnet"
 		},
-		"Zebstrika 643": {
+		"Zebstrika-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -15121,7 +15122,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Air Balloon"
 		},
-		"Zebstrika 818": {
+		"Zebstrika-4": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -15138,7 +15139,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Zoroark": {
-		"Zoroark 325": {
+		"Zoroark-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -15153,7 +15154,7 @@ var SETDEX_BW = {
 			"nature": "Naive",
 			"item": "Focus Sash"
 		},
-		"Zoroark 500": {
+		"Zoroark-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15168,7 +15169,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Expert Belt"
 		},
-		"Zoroark 675": {
+		"Zoroark-3": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -15183,7 +15184,7 @@ var SETDEX_BW = {
 			"nature": "Jolly",
 			"item": "Sitrus Berry"
 		},
-		"Zoroark 850": {
+		"Zoroark-4": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15200,7 +15201,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Zorua": {
-		"Zorua 45": {
+		"Zorua-1": {
 			"level": 50,
 			"evs": {
 				"at": 252,
@@ -15214,7 +15215,7 @@ var SETDEX_BW = {
 			],
 			"nature": "Adamant"
 		},
-		"Zorua 111": {
+		"Zorua-2": {
 			"level": 50,
 			"evs": {
 				"sp": 252,
@@ -15231,7 +15232,7 @@ var SETDEX_BW = {
 		}
 	},
 	"Zweilous": {
-		"Zweilous 140": {
+		"Zweilous-1": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -15246,7 +15247,7 @@ var SETDEX_BW = {
 			"nature": "Adamant",
 			"item": "Yache Berry"
 		},
-		"Zweilous 178": {
+		"Zweilous-2": {
 			"level": 50,
 			"evs": {
 				"hp": 252,
@@ -15261,4 +15262,5 @@ var SETDEX_BW = {
 			"nature": "Adamant"
 		}
 	}
-};
+}
+;
