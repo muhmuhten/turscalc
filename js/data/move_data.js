@@ -3370,6 +3370,7 @@ var MOVES_XY = $.extend(true, {}, MOVES_BW, {
 	"Disarming Voice": {
 		"bp": 40,
 		"type": "Fairy",
+		"category": "Physical",
 		"isSound": true,
 		"pp": 15
 	},
