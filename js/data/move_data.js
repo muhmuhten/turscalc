@@ -1368,6 +1368,13 @@ var MOVES_ADV = $.extend(true, {}, MOVES_GSC, {
 		"hasSecondaryEffect": true,
 		"pp": 10
 	},
+	"Crush Grip": {
+		"bp": 1,
+		"type": "Normal",
+		"category": "Physical",
+		"makesContact": true,
+		"pp": 5
+	},
 	"Dive": {
 		"bp": 60,
 		"type": "Water",

@@ -370,5 +370,6 @@ $(document).ready(function () {
 			const el = document.querySelector("#p1 .at .boost");
 			el.selectedIndex = el.querySelector("[selected]").index + counts.z - counts.v;
 		}
+		calculate()
 	};
 });

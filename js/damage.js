@@ -341,6 +341,7 @@ function getDamageResult(attacker, defender, move, field) {
 		basePower = (attacker.name === "Greninja-Ash" && attacker.ability === "Battle Bond") ? 20 : 15;
 		description.moveBP = basePower;
 		break;
+	case "Crush Grip":
 	case "Wring Out":
 		basePower = Math.max(1, Math.ceil(defender.curHP * 120 / defender.maxHP - 0.5));
 		description.moveBP = basePower;

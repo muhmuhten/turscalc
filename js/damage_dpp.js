@@ -189,6 +189,7 @@ function CALCULATE_DAMAGE_DPP(attacker, defender, move, field) {
 			description.moveBP = move.bp;
 		}
 		break;
+	case "Crush Grip":
 	case "Wring Out":
 		move.bp = Math.floor(defender.curHP * 120 / defender.maxHP) + 1;
 		description.moveBP = move.bp;
