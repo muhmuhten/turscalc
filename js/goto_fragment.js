@@ -185,7 +185,10 @@
 
 					if (match[2]) {
 						const formEl = root.querySelector(".forme");
-						formEl.selectedIndex = match[2];
+						if (formEl.parentElement.style.display == "none")
+							formEl.selectedIndex = 0;
+						else
+							formEl.selectedIndex = match[2];
 						formEl.dispatchEvent(new Event("change"));
 					}
 
@@ -251,7 +254,7 @@
 							nature[1] = STAT_KEYS[j];
 							demandedStats[j] = (demandedStats[j]*10+8)/9|0;
 						}
-						root.querySelector(".nature").value = Object.entries(NATURES).find(e => e[1].join() == nature.join())[0];
+						root.querySelector(".nature").value = Object.entries(NATURES).find(e => e[1].join() == nature.join())?.[0] ?? "Gentle";
 
 						STAT_KEYS.forEach((st, j) => {
 							const row = root.querySelector("tr."+st);
