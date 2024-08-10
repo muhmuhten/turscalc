@@ -1,7 +1,6 @@
 SETDEX_XY = {
 	"Abomasnow": {
 		"Abomasnow4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -18,7 +17,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Abomasnow3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -34,7 +32,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Abomasnow2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -51,7 +48,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Abomasnow1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -70,7 +66,6 @@ SETDEX_XY = {
 	},
 	"Absol": {
 		"Absol4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -87,7 +82,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Absol3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -102,7 +96,6 @@ SETDEX_XY = {
 			"item": "Scope Lens"
 		},
 		"Absol2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -117,7 +110,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Absol1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -135,7 +127,6 @@ SETDEX_XY = {
 	},
 	"Accelgor": {
 		"Accelgor4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -152,7 +143,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Accelgor3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -167,7 +157,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Accelgor2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -182,7 +171,6 @@ SETDEX_XY = {
 			"item": "Weakness Policy"
 		},
 		"Accelgor1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -199,7 +187,6 @@ SETDEX_XY = {
 	},
 	"Aerodactyl": {
 		"Aerodactyl4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -216,7 +203,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aerodactyl3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -232,7 +218,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aerodactyl2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -247,7 +232,6 @@ SETDEX_XY = {
 			"item": "Passho Berry"
 		},
 		"Aerodactyl1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -264,7 +248,6 @@ SETDEX_XY = {
 	},
 	"Aggron": {
 		"Aggron4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -281,7 +264,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aggron3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -296,7 +278,6 @@ SETDEX_XY = {
 			"item": "Wide Lens"
 		},
 		"Aggron2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -311,7 +292,6 @@ SETDEX_XY = {
 			"item": "King's Rock"
 		},
 		"Aggron1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -328,7 +308,6 @@ SETDEX_XY = {
 	},
 	"Alakazam": {
 		"Alakazam4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -345,7 +324,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Alakazam3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -361,7 +339,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Alakazam2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -377,7 +354,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Alakazam1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -395,7 +371,6 @@ SETDEX_XY = {
 	},
 	"Altaria": {
 		"Altaria4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -412,7 +387,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Altaria3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -428,7 +402,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Altaria2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -443,7 +416,6 @@ SETDEX_XY = {
 			"item": "Snowball"
 		},
 		"Altaria1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -460,7 +432,6 @@ SETDEX_XY = {
 	},
 	"Ambipom": {
 		"Ambipom4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -477,7 +448,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ambipom3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -492,7 +462,6 @@ SETDEX_XY = {
 			"item": "Life Orb"
 		},
 		"Ambipom2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -507,7 +476,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Ambipom1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -524,7 +492,6 @@ SETDEX_XY = {
 	},
 	"Ampharos": {
 		"Ampharos4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -541,7 +508,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ampharos3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -557,7 +523,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ampharos2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -573,7 +538,6 @@ SETDEX_XY = {
 			"item": "Lum Berry"
 		},
 		"Ampharos1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -591,7 +555,6 @@ SETDEX_XY = {
 	},
 	"Arcanine": {
 		"Arcanine4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -608,7 +571,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Arcanine3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -624,7 +586,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Arcanine2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -640,7 +601,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Arcanine1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -658,7 +618,6 @@ SETDEX_XY = {
 	},
 	"Archeops": {
 		"Archeops4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -675,7 +634,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Archeops3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -691,7 +649,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Archeops2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -706,7 +663,6 @@ SETDEX_XY = {
 			"item": "Enigma Berry"
 		},
 		"Archeops1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -723,7 +679,6 @@ SETDEX_XY = {
 	},
 	"Armaldo": {
 		"Armaldo4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -740,7 +695,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Armaldo3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -755,7 +709,6 @@ SETDEX_XY = {
 			"item": "Life Orb"
 		},
 		"Armaldo2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -770,7 +723,6 @@ SETDEX_XY = {
 			"item": "Razor Fang"
 		},
 		"Armaldo1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -787,7 +739,6 @@ SETDEX_XY = {
 	},
 	"Aromatisse": {
 		"Aromatisse4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -804,7 +755,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aromatisse3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -820,7 +770,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aromatisse2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -835,7 +784,6 @@ SETDEX_XY = {
 			"item": "Assault Vest"
 		},
 		"Aromatisse1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -852,7 +800,6 @@ SETDEX_XY = {
 	},
 	"Articuno": {
 		"Articuno1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -869,7 +816,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Articuno2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -886,7 +832,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Articuno3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -902,7 +847,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Articuno4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -920,7 +864,6 @@ SETDEX_XY = {
 	},
 	"Aurorus": {
 		"Aurorus4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -937,7 +880,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aurorus2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -953,7 +895,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Aurorus3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -968,7 +909,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Aurorus1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -985,7 +925,6 @@ SETDEX_XY = {
 	},
 	"Avalugg": {
 		"Avalugg4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -1002,7 +941,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Avalugg3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -1018,7 +956,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Avalugg2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -1034,7 +971,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Avalugg1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -1052,7 +988,6 @@ SETDEX_XY = {
 	},
 	"Barbaracle": {
 		"Barbaracle4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -1069,7 +1004,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Barbaracle2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -1085,7 +1019,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Barbaracle3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -1100,7 +1033,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Barbaracle1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1117,7 +1049,6 @@ SETDEX_XY = {
 	},
 	"Bastiodon": {
 		"Bastiodon4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1134,7 +1065,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bastiodon3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -1150,7 +1080,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bastiodon2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -1166,7 +1095,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bastiodon1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1184,7 +1112,6 @@ SETDEX_XY = {
 	},
 	"Beartic": {
 		"Beartic4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1201,7 +1128,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Beartic3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -1217,7 +1143,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Beartic2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -1233,7 +1158,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Beartic1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -1251,7 +1175,6 @@ SETDEX_XY = {
 	},
 	"Bisharp": {
 		"Bisharp4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1268,7 +1191,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bisharp3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1283,7 +1205,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Bisharp2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1298,7 +1219,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Bisharp1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -1315,7 +1235,6 @@ SETDEX_XY = {
 	},
 	"Blastoise": {
 		"Blastoise4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1332,7 +1251,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blastoise3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1348,7 +1266,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blastoise2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -1364,7 +1281,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blastoise1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -1383,7 +1299,6 @@ SETDEX_XY = {
 	},
 	"Blaziken": {
 		"Blaziken4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1400,7 +1315,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blaziken3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1416,7 +1330,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blaziken2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -1433,7 +1346,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blaziken1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -1452,7 +1364,6 @@ SETDEX_XY = {
 	},
 	"Blissey": {
 		"Blissey4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -1469,7 +1380,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blissey3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -1485,7 +1395,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blissey2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -1501,7 +1410,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Blissey1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -1519,7 +1427,6 @@ SETDEX_XY = {
 	},
 	"Bouffalant": {
 		"Bouffalant4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1536,7 +1443,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bouffalant3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1551,7 +1457,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Bouffalant2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1566,7 +1471,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Bouffalant1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1583,7 +1487,6 @@ SETDEX_XY = {
 	},
 	"Braviary": {
 		"Braviary4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1600,7 +1503,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Braviary3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1616,7 +1518,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Braviary2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1631,7 +1532,6 @@ SETDEX_XY = {
 			"item": "Persim Berry"
 		},
 		"Braviary1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -1649,7 +1549,6 @@ SETDEX_XY = {
 	},
 	"Breloom": {
 		"Breloom4": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -1667,7 +1566,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Breloom3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1682,7 +1580,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Breloom2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1697,7 +1594,6 @@ SETDEX_XY = {
 			"item": "Toxic Orb"
 		},
 		"Breloom1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1714,7 +1610,6 @@ SETDEX_XY = {
 	},
 	"Bronzong": {
 		"Bronzong4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1731,7 +1626,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bronzong3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1747,7 +1641,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bronzong2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -1763,7 +1656,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Bronzong1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -1782,7 +1674,6 @@ SETDEX_XY = {
 	},
 	"Carbink": {
 		"Carbink4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sa": 252
@@ -1799,7 +1690,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Carbink3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -1815,7 +1705,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Carbink2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -1831,7 +1720,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Carbink1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -1848,7 +1736,6 @@ SETDEX_XY = {
 	},
 	"Carracosta": {
 		"Carracosta4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1865,7 +1752,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Carracosta3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -1881,7 +1767,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Carracosta2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -1897,7 +1782,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Carracosta1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -1914,7 +1798,6 @@ SETDEX_XY = {
 	},
 	"Chandelure": {
 		"Chandelure4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -1931,7 +1814,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Chandelure3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -1947,7 +1829,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Chandelure2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -1963,7 +1844,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Chandelure1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -1982,7 +1862,6 @@ SETDEX_XY = {
 	},
 	"Charizard": {
 		"Charizard4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -1999,7 +1878,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Charizard3": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"sa": 168,
@@ -2016,7 +1894,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Charizard2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2032,7 +1909,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Charizard1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sd": 168,
@@ -2051,7 +1927,6 @@ SETDEX_XY = {
 	},
 	"Chesnaught": {
 		"Chesnaught4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -2068,7 +1943,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Chesnaught3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -2084,7 +1958,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Chesnaught2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -2100,7 +1973,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Chesnaught1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -2118,7 +1990,6 @@ SETDEX_XY = {
 	},
 	"Clawitzer": {
 		"Clawitzer4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2135,7 +2006,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Clawitzer3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2150,7 +2020,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Clawitzer2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -2165,7 +2034,6 @@ SETDEX_XY = {
 			"item": "Petaya Berry"
 		},
 		"Clawitzer1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -2182,7 +2050,6 @@ SETDEX_XY = {
 	},
 	"Claydol": {
 		"Claydol4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -2199,7 +2066,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Claydol3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -2215,7 +2081,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Claydol2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -2231,7 +2096,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Claydol1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2249,7 +2113,6 @@ SETDEX_XY = {
 	},
 	"Cobalion": {
 		"Cobalion1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2266,7 +2129,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cobalion2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -2283,7 +2145,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cobalion3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2299,7 +2160,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cobalion4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2317,7 +2177,6 @@ SETDEX_XY = {
 	},
 	"Cofagrigus": {
 		"Cofagrigus4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2334,7 +2193,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cofagrigus3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -2350,7 +2208,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cofagrigus2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -2365,7 +2222,6 @@ SETDEX_XY = {
 			"item": "Spell Tag"
 		},
 		"Cofagrigus1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2382,7 +2238,6 @@ SETDEX_XY = {
 	},
 	"Conkeldurr": {
 		"Conkeldurr4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -2399,7 +2254,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Conkeldurr2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -2415,7 +2269,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Conkeldurr3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -2430,7 +2283,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Conkeldurr1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -2448,7 +2300,6 @@ SETDEX_XY = {
 	},
 	"Cradily": {
 		"Cradily4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -2465,7 +2316,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cradily3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -2481,7 +2331,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cradily2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -2497,7 +2346,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Cradily1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -2514,7 +2362,6 @@ SETDEX_XY = {
 	},
 	"Cresselia": {
 		"Cresselia1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -2531,7 +2378,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cresselia2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2548,7 +2394,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cresselia3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2564,7 +2409,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cresselia4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -2582,7 +2426,6 @@ SETDEX_XY = {
 	},
 	"Crobat": {
 		"Crobat4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2599,7 +2442,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Crobat3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2615,7 +2457,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Crobat2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2630,7 +2471,6 @@ SETDEX_XY = {
 			"item": "Sharp Beak"
 		},
 		"Crobat1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2647,7 +2487,6 @@ SETDEX_XY = {
 	},
 	"Cryogonal": {
 		"Cryogonal4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2664,7 +2503,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cryogonal3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2680,7 +2518,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Cryogonal2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2695,7 +2532,6 @@ SETDEX_XY = {
 			"item": "Occa Berry"
 		},
 		"Cryogonal1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sp": 252
@@ -2712,7 +2548,6 @@ SETDEX_XY = {
 	},
 	"Darmanitan": {
 		"Darmanitan4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2729,7 +2564,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Darmanitan3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -2744,7 +2578,6 @@ SETDEX_XY = {
 			"item": "Assault Vest"
 		},
 		"Darmanitan2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -2759,7 +2592,6 @@ SETDEX_XY = {
 			"item": "Luminous Moss"
 		},
 		"Darmanitan1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -2776,7 +2608,6 @@ SETDEX_XY = {
 	},
 	"Delphox": {
 		"Delphox4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2793,7 +2624,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Delphox3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2809,7 +2639,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Delphox2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2825,7 +2654,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Delphox1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2843,7 +2671,6 @@ SETDEX_XY = {
 	},
 	"Dewgong": {
 		"Dewgong4": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -2861,7 +2688,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dewgong1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -2877,7 +2703,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dewgong3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -2892,7 +2717,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Dewgong2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -2909,7 +2733,6 @@ SETDEX_XY = {
 	},
 	"Donphan": {
 		"Donphan4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -2926,7 +2749,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Donphan3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -2941,7 +2763,6 @@ SETDEX_XY = {
 			"item": "Maranga Berry"
 		},
 		"Donphan2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -2956,7 +2777,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Donphan1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -2973,7 +2793,6 @@ SETDEX_XY = {
 	},
 	"Dragonite": {
 		"Dragonite4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -2990,7 +2809,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dragonite3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -3006,7 +2824,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dragonite2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3021,7 +2838,6 @@ SETDEX_XY = {
 			"item": "Salac Berry"
 		},
 		"Dragonite1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -3039,7 +2855,6 @@ SETDEX_XY = {
 	},
 	"Drapion": {
 		"Drapion4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3056,7 +2871,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Drapion3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3071,7 +2885,6 @@ SETDEX_XY = {
 			"item": "Scope Lens"
 		},
 		"Drapion2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3086,7 +2899,6 @@ SETDEX_XY = {
 			"item": "Shuca Berry"
 		},
 		"Drapion1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -3103,7 +2915,6 @@ SETDEX_XY = {
 	},
 	"Drifblim": {
 		"Drifblim4": {
-			"level": 50,
 			"evs": {
 				"sd": 252,
 				"sp": 252
@@ -3120,7 +2931,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Drifblim3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sp": 252
@@ -3136,7 +2946,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Drifblim2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3151,7 +2960,6 @@ SETDEX_XY = {
 			"item": "Wide Lens"
 		},
 		"Drifblim1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -3168,7 +2976,6 @@ SETDEX_XY = {
 	},
 	"Druddigon": {
 		"Druddigon4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3185,7 +2992,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Druddigon3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3200,7 +3006,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Druddigon2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -3216,7 +3021,6 @@ SETDEX_XY = {
 			"item": "Scope Lens"
 		},
 		"Druddigon1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -3233,7 +3037,6 @@ SETDEX_XY = {
 	},
 	"Dugtrio": {
 		"Dugtrio4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3250,7 +3053,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dugtrio3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3266,7 +3068,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dugtrio2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -3282,7 +3083,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dugtrio1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3300,7 +3100,6 @@ SETDEX_XY = {
 	},
 	"Durant": {
 		"Durant4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -3317,7 +3116,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Durant3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3332,7 +3130,6 @@ SETDEX_XY = {
 			"item": "Occa Berry"
 		},
 		"Durant2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sp": 252
@@ -3347,7 +3144,6 @@ SETDEX_XY = {
 			"item": "Power Herb"
 		},
 		"Durant1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -3365,7 +3161,6 @@ SETDEX_XY = {
 	},
 	"Dusknoir": {
 		"Dusknoir4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -3382,7 +3177,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dusknoir3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -3398,7 +3192,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dusknoir2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3414,7 +3207,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Dusknoir1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -3432,7 +3224,6 @@ SETDEX_XY = {
 	},
 	"Eelektross": {
 		"Eelektross4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -3449,7 +3240,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Eelektross3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3465,7 +3255,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Eelektross2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3480,7 +3269,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Eelektross1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -3497,7 +3285,6 @@ SETDEX_XY = {
 	},
 	"Electivire": {
 		"Electivire4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3514,7 +3301,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Electivire3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3530,7 +3316,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Electivire2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -3546,7 +3331,6 @@ SETDEX_XY = {
 			"item": "Shuca Berry"
 		},
 		"Electivire1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -3564,7 +3348,6 @@ SETDEX_XY = {
 	},
 	"Electrode": {
 		"Electrode4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3581,7 +3364,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Electrode3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3597,7 +3379,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Electrode2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3612,7 +3393,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Electrode1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -3629,7 +3409,6 @@ SETDEX_XY = {
 	},
 	"Emboar": {
 		"Emboar4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3646,7 +3425,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Emboar3": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -3663,7 +3441,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Emboar2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -3680,7 +3457,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Emboar1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -3698,7 +3474,6 @@ SETDEX_XY = {
 	},
 	"Empoleon": {
 		"Empoleon4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -3715,7 +3490,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Empoleon3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -3731,7 +3505,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Empoleon2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -3748,7 +3521,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Empoleon1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -3766,7 +3538,6 @@ SETDEX_XY = {
 	},
 	"Entei": {
 		"Entei1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -3783,7 +3554,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Entei2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -3801,7 +3571,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Entei3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3817,7 +3586,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Entei4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3835,7 +3603,6 @@ SETDEX_XY = {
 	},
 	"Escavalier": {
 		"Escavalier4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3852,7 +3619,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Escavalier3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3867,7 +3633,6 @@ SETDEX_XY = {
 			"item": "Life Orb"
 		},
 		"Escavalier2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3882,7 +3647,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Escavalier1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -3899,7 +3663,6 @@ SETDEX_XY = {
 	},
 	"Espeon": {
 		"Espeon4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3916,7 +3679,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Espeon3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3932,7 +3694,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Espeon2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -3948,7 +3709,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Espeon1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -3966,7 +3726,6 @@ SETDEX_XY = {
 	},
 	"Excadrill": {
 		"Excadrill4": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -3984,7 +3743,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Excadrill3": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -4001,7 +3759,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Excadrill2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -4017,7 +3774,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Excadrill1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -4035,7 +3791,6 @@ SETDEX_XY = {
 	},
 	"Exeggutor": {
 		"Exeggutor4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -4052,7 +3807,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Exeggutor3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -4068,7 +3822,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Exeggutor2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -4084,7 +3837,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Exeggutor1": {
-			"level": 50,
 			"evs": {
 				"sa": 168,
 				"sd": 168,
@@ -4103,7 +3855,6 @@ SETDEX_XY = {
 	},
 	"Exploud": {
 		"Exploud4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4120,7 +3871,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Exploud3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -4135,7 +3885,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Exploud2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sa": 252
@@ -4150,7 +3899,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Exploud1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -4167,7 +3915,6 @@ SETDEX_XY = {
 	},
 	"Feraligatr": {
 		"Feraligatr4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4184,7 +3931,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Feraligatr3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -4200,7 +3946,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Feraligatr2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -4217,7 +3962,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Feraligatr1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -4235,7 +3979,6 @@ SETDEX_XY = {
 	},
 	"Ferrothorn": {
 		"Ferrothorn4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -4252,7 +3995,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ferrothorn3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -4268,7 +4010,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ferrothorn2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -4284,7 +4025,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ferrothorn1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -4302,7 +4042,6 @@ SETDEX_XY = {
 	},
 	"Flareon": {
 		"Flareon4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -4319,7 +4058,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Flareon3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -4335,7 +4073,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Flareon2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -4351,7 +4088,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Flareon1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sa": 252
@@ -4369,7 +4105,6 @@ SETDEX_XY = {
 	},
 	"Floatzel": {
 		"Floatzel4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4386,7 +4121,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Floatzel3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4402,7 +4136,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Floatzel2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4418,7 +4151,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Floatzel1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4436,7 +4168,6 @@ SETDEX_XY = {
 	},
 	"Florges": {
 		"Florges4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -4453,7 +4184,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Florges3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -4469,7 +4199,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Florges2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -4485,7 +4214,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Florges1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -4503,7 +4231,6 @@ SETDEX_XY = {
 	},
 	"Flygon": {
 		"Flygon4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4520,7 +4247,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Flygon3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4535,7 +4261,6 @@ SETDEX_XY = {
 			"item": "White Herb"
 		},
 		"Flygon2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4550,7 +4275,6 @@ SETDEX_XY = {
 			"item": "Haban Berry"
 		},
 		"Flygon1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4567,7 +4291,6 @@ SETDEX_XY = {
 	},
 	"Forretress": {
 		"Forretress4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -4584,7 +4307,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Forretress3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -4600,7 +4322,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Forretress2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -4615,7 +4336,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Forretress1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -4632,7 +4352,6 @@ SETDEX_XY = {
 	},
 	"Froslass": {
 		"Froslass4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4649,7 +4368,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Froslass3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4665,7 +4383,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Froslass2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4681,7 +4398,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Froslass1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4699,7 +4415,6 @@ SETDEX_XY = {
 	},
 	"Gallade": {
 		"Gallade4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4716,7 +4431,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gallade3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -4732,7 +4446,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gallade2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4747,7 +4460,6 @@ SETDEX_XY = {
 			"item": "Scope Lens"
 		},
 		"Gallade1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4764,7 +4476,6 @@ SETDEX_XY = {
 	},
 	"Garchomp": {
 		"Garchomp4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4781,7 +4492,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Garchomp3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -4797,7 +4507,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Garchomp2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4813,7 +4522,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Garchomp1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -4831,7 +4539,6 @@ SETDEX_XY = {
 	},
 	"Gardevoir": {
 		"Gardevoir4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4848,7 +4555,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gardevoir3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4864,7 +4570,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gardevoir2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4880,7 +4585,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gardevoir1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -4898,7 +4602,6 @@ SETDEX_XY = {
 	},
 	"Gastrodon": {
 		"Gastrodon4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -4915,7 +4618,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gastrodon3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -4931,7 +4633,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gastrodon1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -4947,7 +4648,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gastrodon2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -4965,7 +4665,6 @@ SETDEX_XY = {
 	},
 	"Gengar": {
 		"Gengar4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4982,7 +4681,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gengar3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -4998,7 +4696,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gengar2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5014,7 +4711,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gengar1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -5032,7 +4728,6 @@ SETDEX_XY = {
 	},
 	"Gigalith": {
 		"Gigalith4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -5049,7 +4744,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gigalith3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -5065,7 +4759,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gigalith2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -5081,7 +4774,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gigalith1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -5099,7 +4791,6 @@ SETDEX_XY = {
 	},
 	"Glaceon": {
 		"Glaceon4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -5116,7 +4807,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Glaceon3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -5132,7 +4822,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Glaceon2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -5148,7 +4837,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Glaceon1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -5166,7 +4854,6 @@ SETDEX_XY = {
 	},
 	"Gliscor": {
 		"Gliscor4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -5183,7 +4870,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gliscor3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -5199,7 +4885,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gliscor2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -5215,7 +4900,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gliscor1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5233,7 +4917,6 @@ SETDEX_XY = {
 	},
 	"Gogoat": {
 		"Gogoat4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5250,7 +4933,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gogoat3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -5265,7 +4947,6 @@ SETDEX_XY = {
 			"item": "Big Root"
 		},
 		"Gogoat2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sa": 252
@@ -5280,7 +4961,6 @@ SETDEX_XY = {
 			"item": "Occa Berry"
 		},
 		"Gogoat1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -5297,7 +4977,6 @@ SETDEX_XY = {
 	},
 	"Golem": {
 		"Golem4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -5314,7 +4993,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Golem3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5329,7 +5007,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Golem2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5344,7 +5021,6 @@ SETDEX_XY = {
 			"item": "Absorb Bulb"
 		},
 		"Golem1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -5362,7 +5038,6 @@ SETDEX_XY = {
 	},
 	"Golurk": {
 		"Golurk4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -5379,7 +5054,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Golurk3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -5394,7 +5068,6 @@ SETDEX_XY = {
 			"item": "Lum Berry"
 		},
 		"Golurk2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -5409,7 +5082,6 @@ SETDEX_XY = {
 			"item": "Wide Lens"
 		},
 		"Golurk1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -5426,7 +5098,6 @@ SETDEX_XY = {
 	},
 	"Goodra": {
 		"Goodra4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -5443,7 +5114,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Goodra3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -5459,7 +5129,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Goodra2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -5475,7 +5144,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Goodra1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -5493,7 +5161,6 @@ SETDEX_XY = {
 	},
 	"Gothitelle": {
 		"Gothitelle4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -5510,7 +5177,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gothitelle3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -5526,7 +5192,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gothitelle2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -5542,7 +5207,6 @@ SETDEX_XY = {
 			"item": "Twisted Spoon"
 		},
 		"Gothitelle1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -5560,7 +5224,6 @@ SETDEX_XY = {
 	},
 	"Gourgeist": {
 		"Gourgeist4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -5577,7 +5240,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gourgeist3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -5593,7 +5255,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gourgeist2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -5610,7 +5271,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gourgeist1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -5627,7 +5287,6 @@ SETDEX_XY = {
 	},
 	"Granbull": {
 		"Granbull4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5644,7 +5303,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Granbull3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5660,7 +5318,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Granbull2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -5676,7 +5333,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Granbull1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -5695,7 +5351,6 @@ SETDEX_XY = {
 	},
 	"Greninja": {
 		"Greninja4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -5712,7 +5367,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Greninja3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5728,7 +5382,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Greninja2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -5744,7 +5397,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Greninja1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -5762,7 +5414,6 @@ SETDEX_XY = {
 	},
 	"Gyarados": {
 		"Gyarados4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -5779,7 +5430,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gyarados3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5795,7 +5445,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gyarados2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5811,7 +5460,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Gyarados1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -5830,7 +5478,6 @@ SETDEX_XY = {
 	},
 	"Hariyama": {
 		"Hariyama4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -5847,7 +5494,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hariyama3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -5862,7 +5508,6 @@ SETDEX_XY = {
 			"item": "Flame Orb"
 		},
 		"Hariyama2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -5877,7 +5522,6 @@ SETDEX_XY = {
 			"item": "Custap Berry"
 		},
 		"Hariyama1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -5895,7 +5539,6 @@ SETDEX_XY = {
 	},
 	"Hawlucha": {
 		"Hawlucha4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5912,7 +5555,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hawlucha3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5928,7 +5570,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hawlucha2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -5943,7 +5584,6 @@ SETDEX_XY = {
 			"item": "Leftovers"
 		},
 		"Hawlucha1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5960,7 +5600,6 @@ SETDEX_XY = {
 	},
 	"Haxorus": {
 		"Haxorus4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5977,7 +5616,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Haxorus3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -5992,7 +5630,6 @@ SETDEX_XY = {
 			"item": "Choice Band"
 		},
 		"Haxorus2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -6008,7 +5645,6 @@ SETDEX_XY = {
 			"item": "Persim Berry"
 		},
 		"Haxorus1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6025,7 +5661,6 @@ SETDEX_XY = {
 	},
 	"Heatran": {
 		"Heatran1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -6042,7 +5677,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Heatran2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -6059,7 +5693,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Heatran3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -6075,7 +5708,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Heatran4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6093,7 +5725,6 @@ SETDEX_XY = {
 	},
 	"Heracross": {
 		"Heracross4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6110,7 +5741,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Heracross3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6125,7 +5755,6 @@ SETDEX_XY = {
 			"item": "Coba Berry"
 		},
 		"Heracross2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -6140,7 +5769,6 @@ SETDEX_XY = {
 			"item": "Salac Berry"
 		},
 		"Heracross1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -6158,7 +5786,6 @@ SETDEX_XY = {
 	},
 	"Hippowdon": {
 		"Hippowdon4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -6175,7 +5802,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hippowdon3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -6191,7 +5817,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hippowdon2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -6207,7 +5832,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hippowdon1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -6225,7 +5849,6 @@ SETDEX_XY = {
 	},
 	"Honchkrow": {
 		"Honchkrow4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -6242,7 +5865,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Honchkrow3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -6258,7 +5880,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Honchkrow2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -6273,7 +5894,6 @@ SETDEX_XY = {
 			"item": "Black Glasses"
 		},
 		"Honchkrow1": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -6291,7 +5911,6 @@ SETDEX_XY = {
 	},
 	"Houndoom": {
 		"Houndoom4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6308,7 +5927,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Houndoom3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6323,7 +5941,6 @@ SETDEX_XY = {
 			"item": "Air Balloon"
 		},
 		"Houndoom2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6338,7 +5955,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Houndoom1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6355,7 +5971,6 @@ SETDEX_XY = {
 	},
 	"Hydreigon": {
 		"Hydreigon4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6372,7 +5987,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hydreigon3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6388,7 +6002,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hydreigon2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"sa": 168,
@@ -6405,7 +6018,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Hydreigon1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6423,7 +6035,6 @@ SETDEX_XY = {
 	},
 	"Infernape": {
 		"Infernape4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6440,7 +6051,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Infernape3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6456,7 +6066,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Infernape2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -6473,7 +6082,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Infernape1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6491,7 +6099,6 @@ SETDEX_XY = {
 	},
 	"Jolteon": {
 		"Jolteon4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6508,7 +6115,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Jolteon3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6524,7 +6130,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Jolteon2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6540,7 +6145,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Jolteon1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6558,7 +6162,6 @@ SETDEX_XY = {
 	},
 	"Jynx": {
 		"Jynx4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6575,7 +6178,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Jynx3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6591,7 +6193,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Jynx2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6606,7 +6207,6 @@ SETDEX_XY = {
 			"item": "Destiny Knot"
 		},
 		"Jynx1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -6623,7 +6223,6 @@ SETDEX_XY = {
 	},
 	"Kangaskhan": {
 		"Kangaskhan4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6640,7 +6239,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Kangaskhan3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6655,7 +6253,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Kangaskhan2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6670,7 +6267,6 @@ SETDEX_XY = {
 			"item": "Salac Berry"
 		},
 		"Kangaskhan1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6687,7 +6283,6 @@ SETDEX_XY = {
 	},
 	"Kingdra": {
 		"Kingdra4": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -6705,7 +6300,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Kingdra3": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -6722,7 +6316,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Kingdra2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -6739,7 +6332,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Kingdra1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -6758,7 +6350,6 @@ SETDEX_XY = {
 	},
 	"Klinklang": {
 		"Klinklang4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6775,7 +6366,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Klinklang3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6790,7 +6380,6 @@ SETDEX_XY = {
 			"item": "Occa Berry"
 		},
 		"Klinklang2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6805,7 +6394,6 @@ SETDEX_XY = {
 			"item": "White Herb"
 		},
 		"Klinklang1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -6822,7 +6410,6 @@ SETDEX_XY = {
 	},
 	"Krookodile": {
 		"Krookodile4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6839,7 +6426,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Krookodile3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -6855,7 +6441,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Krookodile2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -6871,7 +6456,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Krookodile1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -6890,7 +6474,6 @@ SETDEX_XY = {
 	},
 	"Landorus": {
 		"Landorus1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -6907,7 +6490,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Landorus2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -6924,7 +6506,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Landorus3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -6940,7 +6521,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Landorus4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -6958,7 +6538,6 @@ SETDEX_XY = {
 	},
 	"Lanturn": {
 		"Lanturn4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -6975,7 +6554,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lanturn3": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -6992,7 +6570,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lanturn2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -7007,7 +6584,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Lanturn1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7024,7 +6600,6 @@ SETDEX_XY = {
 	},
 	"Lapras": {
 		"Lapras4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -7041,7 +6616,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lapras1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -7057,7 +6631,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lapras3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -7072,7 +6645,6 @@ SETDEX_XY = {
 			"item": "Bright Powder"
 		},
 		"Lapras2": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -7090,7 +6662,6 @@ SETDEX_XY = {
 	},
 	"Latias": {
 		"Latias1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -7107,7 +6678,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Latias2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7124,7 +6694,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Latias3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7140,7 +6709,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Latias4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7158,7 +6726,6 @@ SETDEX_XY = {
 	},
 	"Latios": {
 		"Latios1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -7175,7 +6742,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Latios2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7192,7 +6758,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Latios3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7208,7 +6773,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Latios4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7226,7 +6790,6 @@ SETDEX_XY = {
 	},
 	"Leafeon": {
 		"Leafeon4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -7243,7 +6806,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Leafeon3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -7259,7 +6821,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Leafeon2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7275,7 +6836,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Leafeon1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -7293,7 +6853,6 @@ SETDEX_XY = {
 	},
 	"Lickilicky": {
 		"Lickilicky4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7310,7 +6869,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lickilicky3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -7325,7 +6883,6 @@ SETDEX_XY = {
 			"item": "Leftovers"
 		},
 		"Lickilicky2": {
-			"level": 50,
 			"evs": {
 				"hp": 124,
 				"at": 124,
@@ -7342,7 +6899,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Lickilicky1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -7360,7 +6916,6 @@ SETDEX_XY = {
 	},
 	"Lilligant": {
 		"Lilligant4": {
-			"level": 50,
 			"evs": {
 				"hp": 124,
 				"df": 124,
@@ -7379,7 +6934,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lilligant3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -7395,7 +6949,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lilligant2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -7412,7 +6965,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lilligant1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7430,7 +6982,6 @@ SETDEX_XY = {
 	},
 	"Lopunny": {
 		"Lopunny4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -7447,7 +6998,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lopunny3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -7462,7 +7012,6 @@ SETDEX_XY = {
 			"item": "Chople Berry"
 		},
 		"Lopunny2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7477,7 +7026,6 @@ SETDEX_XY = {
 			"item": "Liechi Berry"
 		},
 		"Lopunny1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -7494,7 +7042,6 @@ SETDEX_XY = {
 	},
 	"Lucario": {
 		"Lucario4": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"sa": 168,
@@ -7512,7 +7059,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Lucario3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7527,7 +7073,6 @@ SETDEX_XY = {
 			"item": "Muscle Band"
 		},
 		"Lucario2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7542,7 +7087,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Lucario1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7559,7 +7103,6 @@ SETDEX_XY = {
 	},
 	"Ludicolo": {
 		"Ludicolo4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7576,7 +7119,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ludicolo3": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -7593,7 +7135,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ludicolo2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -7610,7 +7151,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ludicolo1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -7629,7 +7169,6 @@ SETDEX_XY = {
 	},
 	"Luxray": {
 		"Luxray4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -7646,7 +7185,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Luxray3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7662,7 +7200,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Luxray2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -7678,7 +7215,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Luxray1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -7696,7 +7232,6 @@ SETDEX_XY = {
 	},
 	"Machamp": {
 		"Machamp4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -7713,7 +7248,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Machamp3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7728,7 +7262,6 @@ SETDEX_XY = {
 			"item": "Choice Scarf"
 		},
 		"Machamp2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7743,7 +7276,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Machamp1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7760,7 +7292,6 @@ SETDEX_XY = {
 	},
 	"Magmortar": {
 		"Magmortar4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7777,7 +7308,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Magmortar3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -7793,7 +7323,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Magmortar2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -7809,7 +7338,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Magmortar1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7827,7 +7355,6 @@ SETDEX_XY = {
 	},
 	"Magnezone": {
 		"Magnezone4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -7844,7 +7371,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Magnezone3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -7860,7 +7386,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Magnezone2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -7876,7 +7401,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Magnezone1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -7894,7 +7418,6 @@ SETDEX_XY = {
 	},
 	"Mamoswine": {
 		"Mamoswine4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7911,7 +7434,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mamoswine3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -7927,7 +7449,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mamoswine2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -7944,7 +7465,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mamoswine1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"sd": 168,
@@ -7963,7 +7483,6 @@ SETDEX_XY = {
 	},
 	"Mandibuzz": {
 		"Mandibuzz4": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -7981,7 +7500,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mandibuzz3": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -7998,7 +7516,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mandibuzz2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8013,7 +7530,6 @@ SETDEX_XY = {
 			"item": "Roseli Berry"
 		},
 		"Mandibuzz1": {
-			"level": 50,
 			"evs": {
 				"sd": 252,
 				"sp": 252
@@ -8030,7 +7546,6 @@ SETDEX_XY = {
 	},
 	"Manectric": {
 		"Manectric4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8047,7 +7562,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Manectric3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8063,7 +7577,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Manectric2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8078,7 +7591,6 @@ SETDEX_XY = {
 			"item": "Charcoal"
 		},
 		"Manectric1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8095,7 +7607,6 @@ SETDEX_XY = {
 	},
 	"Marowak": {
 		"Marowak4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8112,7 +7623,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Marowak2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8128,7 +7638,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Marowak3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8143,7 +7652,6 @@ SETDEX_XY = {
 			"item": "Thick Club"
 		},
 		"Marowak1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -8160,7 +7668,6 @@ SETDEX_XY = {
 	},
 	"Medicham": {
 		"Medicham4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8177,7 +7684,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Medicham3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8193,7 +7699,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Medicham2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8208,7 +7713,6 @@ SETDEX_XY = {
 			"item": "Twisted Spoon"
 		},
 		"Medicham1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -8225,7 +7729,6 @@ SETDEX_XY = {
 	},
 	"Meganium": {
 		"Meganium4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -8242,7 +7745,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Meganium3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8258,7 +7760,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Meganium2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -8274,7 +7775,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Meganium1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -8292,7 +7792,6 @@ SETDEX_XY = {
 	},
 	"Metagross": {
 		"Metagross4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -8309,7 +7808,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Metagross3": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -8326,7 +7824,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Metagross2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -8342,7 +7839,6 @@ SETDEX_XY = {
 			"item": "Occa Berry"
 		},
 		"Metagross1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8359,7 +7855,6 @@ SETDEX_XY = {
 	},
 	"Mienshao": {
 		"Mienshao4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8376,7 +7871,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mienshao3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8391,7 +7885,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Mienshao2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8406,7 +7899,6 @@ SETDEX_XY = {
 			"item": "King's Rock"
 		},
 		"Mienshao1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -8423,7 +7915,6 @@ SETDEX_XY = {
 	},
 	"Milotic": {
 		"Milotic4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -8440,7 +7931,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Milotic3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -8456,7 +7946,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Milotic2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -8472,7 +7961,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Milotic1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -8490,7 +7978,6 @@ SETDEX_XY = {
 	},
 	"Miltank": {
 		"Miltank4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8507,7 +7994,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Miltank3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -8522,7 +8008,6 @@ SETDEX_XY = {
 			"item": "Scope Lens"
 		},
 		"Miltank2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8537,7 +8022,6 @@ SETDEX_XY = {
 			"item": "Razor Fang"
 		},
 		"Miltank1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -8554,7 +8038,6 @@ SETDEX_XY = {
 	},
 	"Mismagius": {
 		"Mismagius4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -8571,7 +8054,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mismagius3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8587,7 +8069,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mismagius2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -8602,7 +8083,6 @@ SETDEX_XY = {
 			"item": "Kasib Berry"
 		},
 		"Mismagius1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -8619,7 +8099,6 @@ SETDEX_XY = {
 	},
 	"Moltres": {
 		"Moltres1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8636,7 +8115,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Moltres2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8653,7 +8131,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Moltres3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8669,7 +8146,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Moltres4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8687,7 +8163,6 @@ SETDEX_XY = {
 	},
 	"Mr. Mime": {
 		"Mr. Mime4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8704,7 +8179,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mr. Mime3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -8720,7 +8194,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Mr. Mime2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -8735,7 +8208,6 @@ SETDEX_XY = {
 			"item": "Jaboca Berry"
 		},
 		"Mr. Mime1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8752,7 +8224,6 @@ SETDEX_XY = {
 	},
 	"Muk": {
 		"Muk4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8769,7 +8240,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Muk3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8784,7 +8254,6 @@ SETDEX_XY = {
 			"item": "Zoom Lens"
 		},
 		"Muk2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"sa": 168,
@@ -8800,7 +8269,6 @@ SETDEX_XY = {
 			"item": "Toxic Plate"
 		},
 		"Muk1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -8817,7 +8285,6 @@ SETDEX_XY = {
 	},
 	"Musharna": {
 		"Musharna4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -8834,7 +8301,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Musharna3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -8850,7 +8316,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Musharna2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -8866,7 +8331,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Musharna1": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -8884,7 +8348,6 @@ SETDEX_XY = {
 	},
 	"Nidoking": {
 		"Nidoking4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -8901,7 +8364,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Nidoking3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -8916,7 +8378,6 @@ SETDEX_XY = {
 			"item": "Black Sludge"
 		},
 		"Nidoking2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -8931,7 +8392,6 @@ SETDEX_XY = {
 			"item": "Black Sludge"
 		},
 		"Nidoking1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8948,7 +8408,6 @@ SETDEX_XY = {
 	},
 	"Nidoqueen": {
 		"Nidoqueen4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -8965,7 +8424,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Nidoqueen3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -8980,7 +8438,6 @@ SETDEX_XY = {
 			"item": "Black Sludge"
 		},
 		"Nidoqueen2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -8995,7 +8452,6 @@ SETDEX_XY = {
 			"item": "Absorb Bulb"
 		},
 		"Nidoqueen1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -9013,7 +8469,6 @@ SETDEX_XY = {
 	},
 	"Ninetales": {
 		"Ninetales4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -9030,7 +8485,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ninetales3": {
-			"level": 50,
 			"evs": {
 				"sd": 252,
 				"sp": 252
@@ -9045,7 +8499,6 @@ SETDEX_XY = {
 			"item": "Wide Lens"
 		},
 		"Ninetales2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -9060,7 +8513,6 @@ SETDEX_XY = {
 			"item": "Safety Goggles"
 		},
 		"Ninetales1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9077,7 +8529,6 @@ SETDEX_XY = {
 	},
 	"Noivern": {
 		"Noivern4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9094,7 +8545,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Noivern3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9110,7 +8560,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Noivern2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9125,7 +8574,6 @@ SETDEX_XY = {
 			"item": "Roseli Berry"
 		},
 		"Noivern1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9142,7 +8590,6 @@ SETDEX_XY = {
 	},
 	"Pinsir": {
 		"Pinsir4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9159,7 +8606,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Pinsir3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -9174,7 +8620,6 @@ SETDEX_XY = {
 			"item": "Lax Incense"
 		},
 		"Pinsir2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9189,7 +8634,6 @@ SETDEX_XY = {
 			"item": "Insect Plate"
 		},
 		"Pinsir1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9206,7 +8650,6 @@ SETDEX_XY = {
 	},
 	"Politoed": {
 		"Politoed4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -9223,7 +8666,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Politoed2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -9239,7 +8681,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Politoed3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -9254,7 +8695,6 @@ SETDEX_XY = {
 			"item": "Chesto Berry"
 		},
 		"Politoed1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9271,7 +8711,6 @@ SETDEX_XY = {
 	},
 	"Poliwrath": {
 		"Poliwrath4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -9288,7 +8727,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Poliwrath3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -9303,7 +8741,6 @@ SETDEX_XY = {
 			"item": "Leftovers"
 		},
 		"Poliwrath2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -9318,7 +8755,6 @@ SETDEX_XY = {
 			"item": "Shell Bell"
 		},
 		"Poliwrath1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -9336,7 +8772,6 @@ SETDEX_XY = {
 	},
 	"Porygon-Z": {
 		"Porygon-Z4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9353,7 +8788,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Porygon-Z3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -9369,7 +8803,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Porygon-Z2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9385,7 +8818,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Porygon-Z1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9403,7 +8835,6 @@ SETDEX_XY = {
 	},
 	"Porygon2": {
 		"Porygon24": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -9420,7 +8851,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Porygon21": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -9436,7 +8866,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Porygon23": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -9451,7 +8880,6 @@ SETDEX_XY = {
 			"item": "Choice Specs"
 		},
 		"Porygon22": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -9469,7 +8897,6 @@ SETDEX_XY = {
 	},
 	"Probopass": {
 		"Probopass4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -9486,7 +8913,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Probopass3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -9502,7 +8928,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Probopass2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -9518,7 +8943,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Probopass1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -9536,7 +8960,6 @@ SETDEX_XY = {
 	},
 	"Pyroar": {
 		"Pyroar4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9553,7 +8976,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Pyroar2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9569,7 +8991,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Pyroar3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9584,7 +9005,6 @@ SETDEX_XY = {
 			"item": "Lum Berry"
 		},
 		"Pyroar1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9601,7 +9021,6 @@ SETDEX_XY = {
 	},
 	"Quagsire": {
 		"Quagsire4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -9618,7 +9037,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Quagsire2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -9635,7 +9053,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Quagsire3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -9650,7 +9067,6 @@ SETDEX_XY = {
 			"item": "Rindo Berry"
 		},
 		"Quagsire1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -9667,7 +9083,6 @@ SETDEX_XY = {
 	},
 	"Raichu": {
 		"Raichu4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9684,7 +9099,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Raichu3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9700,7 +9114,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Raichu2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9715,7 +9128,6 @@ SETDEX_XY = {
 			"item": "Magnet"
 		},
 		"Raichu1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9732,7 +9144,6 @@ SETDEX_XY = {
 	},
 	"Raikou": {
 		"Raikou1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9749,7 +9160,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Raikou2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sp": 252
@@ -9766,7 +9176,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Raikou3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9782,7 +9191,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Raikou4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9800,7 +9208,6 @@ SETDEX_XY = {
 	},
 	"Rampardos": {
 		"Rampardos4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -9817,7 +9224,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Rampardos3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9832,7 +9238,6 @@ SETDEX_XY = {
 			"item": "Choice Scarf"
 		},
 		"Rampardos2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9847,7 +9252,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Rampardos1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -9865,7 +9269,6 @@ SETDEX_XY = {
 	},
 	"Rapidash": {
 		"Rapidash4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9882,7 +9285,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Rapidash2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -9898,7 +9300,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Rapidash3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9913,7 +9314,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Rapidash1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -9930,7 +9330,6 @@ SETDEX_XY = {
 	},
 	"Regice": {
 		"Regice1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -9947,7 +9346,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regice2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -9965,7 +9363,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regice3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -9981,7 +9378,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regice4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -9999,7 +9395,6 @@ SETDEX_XY = {
 	},
 	"Regigigas": {
 		"Regigigas1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10016,7 +9411,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regigigas2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -10033,7 +9427,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regigigas3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10049,7 +9442,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regigigas4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -10067,7 +9459,6 @@ SETDEX_XY = {
 	},
 	"Regirock": {
 		"Regirock1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -10084,7 +9475,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regirock2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10101,7 +9491,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regirock3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10117,7 +9506,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Regirock4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10135,7 +9523,6 @@ SETDEX_XY = {
 	},
 	"Registeel": {
 		"Registeel1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -10152,7 +9539,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Registeel2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10169,7 +9555,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Registeel3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -10185,7 +9570,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Registeel4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10203,7 +9587,6 @@ SETDEX_XY = {
 	},
 	"Reuniclus": {
 		"Reuniclus4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -10220,7 +9603,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Reuniclus3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -10236,7 +9618,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Reuniclus2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -10253,7 +9634,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Reuniclus1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -10272,7 +9652,6 @@ SETDEX_XY = {
 	},
 	"Rhyperior": {
 		"Rhyperior4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10289,7 +9668,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Rhyperior3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -10304,7 +9682,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Rhyperior2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10319,7 +9696,6 @@ SETDEX_XY = {
 			"item": "Hard Stone"
 		},
 		"Rhyperior1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -10337,7 +9713,6 @@ SETDEX_XY = {
 	},
 	"Roserade": {
 		"Roserade4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -10354,7 +9729,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Roserade3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10370,7 +9744,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Roserade2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10386,7 +9759,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Roserade1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -10404,7 +9776,6 @@ SETDEX_XY = {
 	},
 	"Salamence": {
 		"Salamence4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10421,7 +9792,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Salamence3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10437,7 +9807,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Salamence2": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"sd": 168,
@@ -10454,7 +9823,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Salamence1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -10473,7 +9841,6 @@ SETDEX_XY = {
 	},
 	"Samurott": {
 		"Samurott4": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -10491,7 +9858,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Samurott3": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -10508,7 +9874,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Samurott2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sa": 252
@@ -10524,7 +9889,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Samurott1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10542,7 +9906,6 @@ SETDEX_XY = {
 	},
 	"Sawk": {
 		"Sawk4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10559,7 +9922,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sawk3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10574,7 +9936,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Sawk2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10589,7 +9950,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Sawk1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10606,7 +9966,6 @@ SETDEX_XY = {
 	},
 	"Sceptile": {
 		"Sceptile4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -10623,7 +9982,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sceptile3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10639,7 +9997,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sceptile2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10655,7 +10012,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sceptile1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10673,7 +10029,6 @@ SETDEX_XY = {
 	},
 	"Scizor": {
 		"Scizor4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10690,7 +10045,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Scizor3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10705,7 +10059,6 @@ SETDEX_XY = {
 			"item": "Life Orb"
 		},
 		"Scizor2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10720,7 +10073,6 @@ SETDEX_XY = {
 			"item": "Insect Plate"
 		},
 		"Scizor1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -10737,7 +10089,6 @@ SETDEX_XY = {
 	},
 	"Scrafty": {
 		"Scrafty4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -10754,7 +10105,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Scrafty3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10769,7 +10119,6 @@ SETDEX_XY = {
 			"item": "Muscle Band"
 		},
 		"Scrafty2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -10784,7 +10133,6 @@ SETDEX_XY = {
 			"item": "Coba Berry"
 		},
 		"Scrafty1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -10801,7 +10149,6 @@ SETDEX_XY = {
 	},
 	"Seismitoad": {
 		"Seismitoad4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -10818,7 +10165,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Seismitoad3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10834,7 +10180,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Seismitoad2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -10850,7 +10195,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Seismitoad1": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sa": 168,
@@ -10869,7 +10213,6 @@ SETDEX_XY = {
 	},
 	"Serperior": {
 		"Serperior4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10886,7 +10229,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Serperior3": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -10903,7 +10245,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Serperior2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -10920,7 +10261,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Serperior1": {
-			"level": 50,
 			"evs": {
 				"df": 168,
 				"sd": 168,
@@ -10939,7 +10279,6 @@ SETDEX_XY = {
 	},
 	"Shiftry": {
 		"Shiftry4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -10956,7 +10295,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Shiftry3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -10972,7 +10310,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Shiftry2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -10988,7 +10325,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Shiftry1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -11007,7 +10343,6 @@ SETDEX_XY = {
 	},
 	"Shuckle": {
 		"Shuckle4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11024,7 +10359,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Shuckle3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11040,7 +10374,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Shuckle2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11056,7 +10389,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Shuckle1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11074,7 +10406,6 @@ SETDEX_XY = {
 	},
 	"Skarmory": {
 		"Skarmory4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11091,7 +10422,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Skarmory3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11107,7 +10437,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Skarmory2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -11122,7 +10451,6 @@ SETDEX_XY = {
 			"item": "Cell Battery"
 		},
 		"Skarmory1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -11139,7 +10467,6 @@ SETDEX_XY = {
 	},
 	"Skuntank": {
 		"Skuntank4": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -11157,7 +10484,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Skuntank3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11172,7 +10498,6 @@ SETDEX_XY = {
 			"item": "Life Orb"
 		},
 		"Skuntank2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11187,7 +10512,6 @@ SETDEX_XY = {
 			"item": "Poison Barb"
 		},
 		"Skuntank1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11204,7 +10528,6 @@ SETDEX_XY = {
 	},
 	"Slaking": {
 		"Slaking4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11221,7 +10544,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slaking3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -11236,7 +10558,6 @@ SETDEX_XY = {
 			"item": "Choice Band"
 		},
 		"Slaking2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11251,7 +10572,6 @@ SETDEX_XY = {
 			"item": "Kee Berry"
 		},
 		"Slaking1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11268,7 +10588,6 @@ SETDEX_XY = {
 	},
 	"Slowbro": {
 		"Slowbro4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11285,7 +10604,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slowbro3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11301,7 +10619,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slowbro2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -11316,7 +10633,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Slowbro1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11333,7 +10649,6 @@ SETDEX_XY = {
 	},
 	"Slowking": {
 		"Slowking4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11350,7 +10665,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slowking3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -11366,7 +10680,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slowking1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -11382,7 +10695,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slowking2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -11399,7 +10711,6 @@ SETDEX_XY = {
 	},
 	"Slurpuff": {
 		"Slurpuff4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -11416,7 +10727,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Slurpuff3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -11431,7 +10741,6 @@ SETDEX_XY = {
 			"item": "Kee Berry"
 		},
 		"Slurpuff2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -11446,7 +10755,6 @@ SETDEX_XY = {
 			"item": "Petaya Berry"
 		},
 		"Slurpuff1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -11463,7 +10771,6 @@ SETDEX_XY = {
 	},
 	"Snorlax": {
 		"Snorlax4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11480,7 +10787,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Snorlax3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -11495,7 +10801,6 @@ SETDEX_XY = {
 			"item": "Life Orb"
 		},
 		"Snorlax2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -11510,7 +10815,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Snorlax1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -11527,7 +10831,6 @@ SETDEX_XY = {
 	},
 	"Spiritomb": {
 		"Spiritomb4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11544,7 +10847,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Spiritomb3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11560,7 +10862,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Spiritomb2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -11575,7 +10876,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Spiritomb1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11592,7 +10892,6 @@ SETDEX_XY = {
 	},
 	"Staraptor": {
 		"Staraptor4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11609,7 +10908,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Staraptor3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11625,7 +10923,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Staraptor2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -11641,7 +10938,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Staraptor1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -11659,7 +10955,6 @@ SETDEX_XY = {
 	},
 	"Starmie": {
 		"Starmie4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -11676,7 +10971,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Starmie3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -11692,7 +10986,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Starmie2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -11707,7 +11000,6 @@ SETDEX_XY = {
 			"item": "Mystic Water"
 		},
 		"Starmie1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -11724,7 +11016,6 @@ SETDEX_XY = {
 	},
 	"Steelix": {
 		"Steelix4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -11741,7 +11032,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Steelix3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -11756,7 +11046,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Steelix2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -11771,7 +11060,6 @@ SETDEX_XY = {
 			"item": "Enigma Berry"
 		},
 		"Steelix1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11788,7 +11076,6 @@ SETDEX_XY = {
 	},
 	"Suicune": {
 		"Suicune1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11805,7 +11092,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Suicune2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -11822,7 +11108,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Suicune3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -11838,7 +11123,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Suicune4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -11856,7 +11140,6 @@ SETDEX_XY = {
 	},
 	"Swampert": {
 		"Swampert4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11873,7 +11156,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Swampert3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -11889,7 +11171,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Swampert2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11905,7 +11186,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Swampert1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -11923,7 +11203,6 @@ SETDEX_XY = {
 	},
 	"Sylveon": {
 		"Sylveon4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -11940,7 +11219,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sylveon3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -11956,7 +11234,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sylveon2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -11972,7 +11249,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Sylveon1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -11990,7 +11266,6 @@ SETDEX_XY = {
 	},
 	"Talonflame": {
 		"Talonflame4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12007,7 +11282,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Talonflame3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sp": 252
@@ -12023,7 +11297,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Talonflame2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12039,7 +11312,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Talonflame1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12056,7 +11328,6 @@ SETDEX_XY = {
 	},
 	"Tangrowth": {
 		"Tangrowth4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -12073,7 +11344,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tangrowth3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -12089,7 +11359,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tangrowth2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12105,7 +11374,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tangrowth1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -12124,7 +11392,6 @@ SETDEX_XY = {
 	},
 	"Tauros": {
 		"Tauros4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -12141,7 +11408,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tauros3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12157,7 +11423,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tauros2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12173,7 +11438,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tauros1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12191,7 +11455,6 @@ SETDEX_XY = {
 	},
 	"Tentacruel": {
 		"Tentacruel4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -12208,7 +11471,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tentacruel3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -12224,7 +11486,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tentacruel2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12240,7 +11501,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tentacruel1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12258,7 +11518,6 @@ SETDEX_XY = {
 	},
 	"Terrakion": {
 		"Terrakion1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12275,7 +11534,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Terrakion2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12292,7 +11550,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Terrakion3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12308,7 +11565,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Terrakion4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12326,7 +11582,6 @@ SETDEX_XY = {
 	},
 	"Throh": {
 		"Throh4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -12343,7 +11598,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Throh3": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -12359,7 +11613,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Throh2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -12374,7 +11627,6 @@ SETDEX_XY = {
 			"item": "Expert Belt"
 		},
 		"Throh1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"df": 252
@@ -12391,7 +11643,6 @@ SETDEX_XY = {
 	},
 	"Thundurus": {
 		"Thundurus1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -12408,7 +11659,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Thundurus2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12425,7 +11675,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Thundurus3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12441,7 +11690,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Thundurus4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12459,7 +11707,6 @@ SETDEX_XY = {
 	},
 	"Togekiss": {
 		"Togekiss4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12476,7 +11723,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Togekiss3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12492,7 +11738,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Togekiss2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -12508,7 +11753,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Togekiss1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -12526,7 +11770,6 @@ SETDEX_XY = {
 	},
 	"Tornadus": {
 		"Tornadus1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12543,7 +11786,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tornadus2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -12560,7 +11802,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tornadus3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -12576,7 +11817,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tornadus4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12594,7 +11834,6 @@ SETDEX_XY = {
 	},
 	"Torterra": {
 		"Torterra4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -12611,7 +11850,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Torterra3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -12627,7 +11865,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Torterra2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12643,7 +11880,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Torterra1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -12661,7 +11897,6 @@ SETDEX_XY = {
 	},
 	"Toxicroak": {
 		"Toxicroak4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12678,7 +11913,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Toxicroak3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12693,7 +11927,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Toxicroak2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12708,7 +11941,6 @@ SETDEX_XY = {
 			"item": "Petaya Berry"
 		},
 		"Toxicroak1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12725,7 +11957,6 @@ SETDEX_XY = {
 	},
 	"Trevenant": {
 		"Trevenant4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -12742,7 +11973,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Trevenant3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -12758,7 +11988,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Trevenant2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -12773,7 +12002,6 @@ SETDEX_XY = {
 			"item": "Leftovers"
 		},
 		"Trevenant1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -12790,7 +12018,6 @@ SETDEX_XY = {
 	},
 	"Typhlosion": {
 		"Typhlosion4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12807,7 +12034,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Typhlosion3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12823,7 +12049,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Typhlosion2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12839,7 +12064,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Typhlosion1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -12857,7 +12081,6 @@ SETDEX_XY = {
 	},
 	"Tyranitar": {
 		"Tyranitar4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -12874,7 +12097,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tyranitar3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12890,7 +12112,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tyranitar2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12906,7 +12127,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tyranitar1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -12924,7 +12144,6 @@ SETDEX_XY = {
 	},
 	"Tyrantrum": {
 		"Tyrantrum4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -12941,7 +12160,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tyrantrum2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -12957,7 +12175,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Tyrantrum3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -12972,7 +12189,6 @@ SETDEX_XY = {
 			"item": "Wide Lens"
 		},
 		"Tyrantrum1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -12989,7 +12205,6 @@ SETDEX_XY = {
 	},
 	"Umbreon": {
 		"Umbreon4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13006,7 +12221,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Umbreon3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13022,7 +12236,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Umbreon2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -13038,7 +12251,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Umbreon1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13056,7 +12268,6 @@ SETDEX_XY = {
 	},
 	"Unfezant": {
 		"Unfezant4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -13073,7 +12284,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Unfezant3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13089,7 +12299,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Unfezant2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13104,7 +12313,6 @@ SETDEX_XY = {
 			"item": "Power Herb"
 		},
 		"Unfezant1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -13122,7 +12330,6 @@ SETDEX_XY = {
 	},
 	"Ursaring": {
 		"Ursaring4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -13139,7 +12346,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Ursaring3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -13154,7 +12360,6 @@ SETDEX_XY = {
 			"item": "Toxic Orb"
 		},
 		"Ursaring2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13169,7 +12374,6 @@ SETDEX_XY = {
 			"item": "Toxic Orb"
 		},
 		"Ursaring1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -13187,7 +12391,6 @@ SETDEX_XY = {
 	},
 	"Vanilluxe": {
 		"Vanilluxe4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -13204,7 +12407,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vanilluxe3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13220,7 +12422,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vanilluxe2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -13236,7 +12437,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vanilluxe1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"sa": 168,
@@ -13255,7 +12455,6 @@ SETDEX_XY = {
 	},
 	"Vaporeon": {
 		"Vaporeon4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13272,7 +12471,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vaporeon3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13288,7 +12486,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vaporeon2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -13304,7 +12501,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vaporeon1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sa": 252
@@ -13322,7 +12518,6 @@ SETDEX_XY = {
 	},
 	"Venusaur": {
 		"Venusaur4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -13339,7 +12534,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Venusaur3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13355,7 +12549,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Venusaur2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -13372,7 +12565,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Venusaur1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -13390,7 +12582,6 @@ SETDEX_XY = {
 	},
 	"Vespiquen": {
 		"Vespiquen4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -13407,7 +12598,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vespiquen3": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -13424,7 +12614,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vespiquen2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13439,7 +12628,6 @@ SETDEX_XY = {
 			"item": "Insect Plate"
 		},
 		"Vespiquen1": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -13457,7 +12645,6 @@ SETDEX_XY = {
 	},
 	"Victreebel": {
 		"Victreebel4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13474,7 +12661,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Victreebel3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13490,7 +12676,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Victreebel2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13506,7 +12691,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Victreebel1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -13524,7 +12708,6 @@ SETDEX_XY = {
 	},
 	"Vileplume": {
 		"Vileplume4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13541,7 +12724,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vileplume3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13557,7 +12739,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vileplume2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13573,7 +12754,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Vileplume1": {
-			"level": 50,
 			"evs": {
 				"sd": 252,
 				"sp": 252
@@ -13591,7 +12771,6 @@ SETDEX_XY = {
 	},
 	"Virizion": {
 		"Virizion1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13608,7 +12787,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Virizion2": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sp": 252
@@ -13625,7 +12803,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Virizion3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13641,7 +12818,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Virizion4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13659,7 +12835,6 @@ SETDEX_XY = {
 	},
 	"Volcarona": {
 		"Volcarona4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13676,7 +12851,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Volcarona3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13692,7 +12866,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Volcarona2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13708,7 +12881,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Volcarona1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sp": 252
@@ -13726,7 +12898,6 @@ SETDEX_XY = {
 	},
 	"Wailord": {
 		"Wailord4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13743,7 +12914,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Wailord3": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -13758,7 +12928,6 @@ SETDEX_XY = {
 			"item": "Leftovers"
 		},
 		"Wailord2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -13773,7 +12942,6 @@ SETDEX_XY = {
 			"item": "Quick Claw"
 		},
 		"Wailord1": {
-			"level": 50,
 			"evs": {
 				"at": 168,
 				"df": 168,
@@ -13791,7 +12959,6 @@ SETDEX_XY = {
 	},
 	"Walrein": {
 		"Walrein4": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -13808,7 +12975,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Walrein3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13824,7 +12990,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Walrein2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -13840,7 +13005,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Walrein1": {
-			"level": 50,
 			"evs": {
 				"df": 252,
 				"sd": 252
@@ -13858,7 +13022,6 @@ SETDEX_XY = {
 	},
 	"Weavile": {
 		"Weavile4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13875,7 +13038,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Weavile3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13890,7 +13052,6 @@ SETDEX_XY = {
 			"item": "Focus Sash"
 		},
 		"Weavile2": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13905,7 +13066,6 @@ SETDEX_XY = {
 			"item": "Never-Melt Ice"
 		},
 		"Weavile1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -13922,7 +13082,6 @@ SETDEX_XY = {
 	},
 	"Weezing": {
 		"Weezing4": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -13939,7 +13098,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Weezing3": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13955,7 +13113,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Weezing2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -13970,7 +13127,6 @@ SETDEX_XY = {
 			"item": "Safety Goggles"
 		},
 		"Weezing1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"df": 252
@@ -13987,7 +13143,6 @@ SETDEX_XY = {
 	},
 	"Whiscash": {
 		"Whiscash4": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"df": 168,
@@ -14005,7 +13160,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Whiscash3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -14021,7 +13175,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Whiscash2": {
-			"level": 50,
 			"evs": {
 				"hp": 168,
 				"at": 168,
@@ -14037,7 +13190,6 @@ SETDEX_XY = {
 			"item": "Soft Sand"
 		},
 		"Whiscash1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sd": 252
@@ -14054,7 +13206,6 @@ SETDEX_XY = {
 	},
 	"Yanmega": {
 		"Yanmega4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14071,7 +13222,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Yanmega3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14087,7 +13237,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Yanmega2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sa": 252
@@ -14102,7 +13251,6 @@ SETDEX_XY = {
 			"item": "Sitrus Berry"
 		},
 		"Yanmega1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sd": 252
@@ -14119,7 +13267,6 @@ SETDEX_XY = {
 	},
 	"Zapdos": {
 		"Zapdos1": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14136,7 +13283,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zapdos2": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"sd": 252
@@ -14153,7 +13299,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zapdos3": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14169,7 +13314,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zapdos4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14187,7 +13331,6 @@ SETDEX_XY = {
 	},
 	"Zebstrika": {
 		"Zebstrika4": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -14204,7 +13347,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zebstrika3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -14220,7 +13362,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zebstrika2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14236,7 +13377,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zebstrika1": {
-			"level": 50,
 			"evs": {
 				"hp": 252,
 				"at": 252
@@ -14253,7 +13393,6 @@ SETDEX_XY = {
 	},
 	"Zoroark": {
 		"Zoroark4": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14270,7 +13409,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zoroark3": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
@@ -14286,7 +13424,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zoroark2": {
-			"level": 50,
 			"evs": {
 				"sa": 252,
 				"sp": 252
@@ -14302,7 +13439,6 @@ SETDEX_XY = {
 			"afterForty": true
 		},
 		"Zoroark1": {
-			"level": 50,
 			"evs": {
 				"at": 252,
 				"sp": 252
